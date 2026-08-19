@@ -2,10 +2,26 @@
 <rss version="2.0">
 <channel>
 <title>Real Notícias Fiscal</title>
-<link>https://github.com/</link>
+<link>https://rnanjos.github.io/real-noticias-fiscal/rss.xml</link>
 <description>Notícias fiscais e tributárias consolidadas das últimas 24 horas.</description>
 <language>pt-BR</language>
-<lastBuildDate>Wed, 19 Aug 2026 13:15:43 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 15:03:09 +0000</lastBuildDate>
+<item>
+<title>Divergência no STJ afasta glosa de Juros sobre Capital Próprio de gigante do setor de alimentos</title>
+<link>https://rotadajurisprudencia.com.br/reunioes-apet/divergencia-no-stj-afasta-glosa-de-juros-sobre-capital-proprio-de-gigante-do-setor-de-alimentos</link>
+<description>A Primeira Turma do Superior Tribunal de Justiça (STJ) afastou, por maioria de votos, a glosa fiscal aplicada pela Fazenda Nacional contra a Piraquê S.A. em relação à dedução de Juros sobre Capital Próprio (JCP). A controvérsia central do processo girava em torno da possibilidade de o imposto de renda retido na fonte (IRRF), assumido pela sociedade na capitalização dos JCP, interferir na apuração do lucro líquido de referência, que baliza o limite de dedutibilidade do benefício, conforme o artigo 9º, §1º, da Lei 9.249/95. O contribuinte sustentava que tal redução do lucro de referência, ao cri</description>
+<pubDate>Wed, 19 Aug 2026 14:45:00 +0000</pubDate>
+<guid isPermaLink="false">7ebd7f5ada5361d2c6908fd2bd6256e85bde8afa64d786184a22621673abec55</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>Fisco deve adiar prazo de desistência do Simples híbrido</title>
+<link>https://www.reformatributaria.com/reforma-tributaria-brasil/fisco-deve-adiar-prazo-de-desistencia-do-simples-hibrido-se-aliquota-da-cbs-demorar-a-ser-definida-diz-barreirinhas</link>
+<description>Medida será adotada em ato conjunto com o Comitê Gestor do IBS; governo também avalia postergar CNPJ técnico e notas para nanoempreendedores</description>
+<pubDate>Wed, 19 Aug 2026 14:19:26 +0000</pubDate>
+<guid isPermaLink="false">d90267c15f9efdc95ce4aee047c0efc1049ef67ec1da113992f5b47468bfe1ea</guid>
+<category>Portal da Reforma Tributária</category>
+</item>
 <item>
 <title>A reforma tributária não falha na lei, mas nas pessoas</title>
 <link>https://www.reformatributaria.com/opiniao/a-reforma-tributaria-nao-falha-na-lei-mas-nas-pessoas</link>
@@ -141,22 +157,6 @@
 <pubDate>Tue, 18 Aug 2026 17:26:00 +0000</pubDate>
 <guid isPermaLink="false">f7252d6ed2d36422761254f30d763f15b43f53c77761d4a53367cd75e16d36a0</guid>
 <category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>Receita Federal e Polícia Federal deflagram Operação Barão da Amizade</title>
-<link>https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/receita-federal-e-policia-federal-deflagram-operacao-barao-da-amizade</link>
-<description>A expectativa é de apreensões de mercadorias irregulares avaliadas em mais de R$ 1 milhão.</description>
-<pubDate>Tue, 18 Aug 2026 14:39:32 +0000</pubDate>
-<guid isPermaLink="false">6dbe7863a5016702ecc9a5db3d7542b30413700e8692a487c1add5764ee79f90</guid>
-<category>Receita Federal</category>
-</item>
-<item>
-<title>Receita Federal participa da Operação Conto da Sorte contra esquema de apostas ilegais</title>
-<link>https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/receita-federal-participa-da-operacao-conto-da-sorte-contra-esquema-de-apostas-ilegais</link>
-<description>Operação cumpriu mandados em Pernambuco, Ceará e São Paulo para desarticular esquema de apostas irregulares; programação incluiu ainda a formalização de parceria entre a Receita Federal e o MPPE.</description>
-<pubDate>Tue, 18 Aug 2026 13:53:44 +0000</pubDate>
-<guid isPermaLink="false">8111c4f80e93a3454e284931c83f651e7663c9256d40cb889d193026fe0e1eab</guid>
-<category>Receita Federal</category>
 </item>
 </channel>
 </rss>
