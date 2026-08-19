@@ -1,1 +1,56 @@
-{"generatedAt": null, "windowHours": 24, "sources": [], "totalItems": 0}
+{
+  "generatedAt": "2026-08-19T10:15:43.428798-03:00",
+  "windowHours": 24,
+  "sources": [
+    {
+      "name": "Receita Federal",
+      "ok": true,
+      "found": 15,
+      "accepted": 2,
+      "error": ""
+    },
+    {
+      "name": "Portal Contábeis",
+      "ok": true,
+      "found": 0,
+      "accepted": 0,
+      "error": ""
+    },
+    {
+      "name": "IOB Online",
+      "ok": true,
+      "found": 0,
+      "accepted": 0,
+      "error": ""
+    },
+    {
+      "name": "Rota da Jurisprudência",
+      "ok": true,
+      "found": 34,
+      "accepted": 10,
+      "error": ""
+    },
+    {
+      "name": "Jornada Tax",
+      "ok": true,
+      "found": 0,
+      "accepted": 0,
+      "error": ""
+    },
+    {
+      "name": "CONFAZ",
+      "ok": false,
+      "found": 0,
+      "accepted": 0,
+      "error": "HTTPSConnectionPool(host='www.confaz.fazenda.gov.br', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.confaz.fazenda.gov.br', port=443) at 0x7f3d03a8a7e0>, 'Connection to www.confaz.fazenda.gov.br timed out. (connect timeout=25)'))"
+    },
+    {
+      "name": "Portal da Reforma Tributária",
+      "ok": true,
+      "found": 27,
+      "accepted": 7,
+      "error": ""
+    }
+  ],
+  "totalItems": 19
+}
