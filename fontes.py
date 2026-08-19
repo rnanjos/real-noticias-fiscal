@@ -1,0 +1,50 @@
+SOURCES = [
+    {
+        "name": "Receita Federal",
+        "type": "rss",
+        "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/ultimas-noticias/RSS",
+    },
+    {
+        "name": "Portal Contábeis",
+        "type": "html",
+        "url": "https://www.contabeis.com.br/noticias/1",
+        "allowed_domains": ["contabeis.com.br"],
+        "link_patterns": [r"/noticias/\d+/"],
+    },
+    {
+        "name": "IOB Online",
+        "type": "html",
+        "url": "https://www.iobonline.com.br/",
+        "allowed_domains": ["iobonline.com.br"],
+        "link_patterns": [r"/ultimos-documentos/.*[Nn]ot", r"documentos=noticias"],
+    },
+    {
+        "name": "Rota da Jurisprudência",
+        "type": "html",
+        "url": "https://rotadajurisprudencia.com.br/",
+        "allowed_domains": ["rotadajurisprudencia.com.br"],
+        "link_patterns": [r"rotadajurisprudencia\.com\.br/.+"],
+        "exclude_patterns": [r"/category/", r"/tag/", r"/author/", r"/quem-somos", r"/contato", r"/politica", r"/principios"],
+    },
+    {
+        "name": "Jornada Tax",
+        "type": "html",
+        "url": "https://jornadatax.com/",
+        "allowed_domains": ["jornadatax.com"],
+        "link_patterns": [r"jornadatax\.com/.+"],
+        "exclude_patterns": [r"/termos", r"/contato", r"/login", r"/cap", r"calculadora\.", r"/checkout", r"/curso", r"/guia"],
+    },
+    {
+        "name": "CONFAZ",
+        "type": "confaz",
+        "url": "https://www.confaz.fazenda.gov.br/",
+    },
+    {
+        "name": "Portal da Reforma Tributária",
+        "type": "html",
+        "url": "https://www.reformatributaria.com/ultimas-noticias/",
+        "allowed_domains": ["reformatributaria.com"],
+        "link_patterns": [r"reformatributaria\.com/.+"],
+        "exclude_patterns": [r"/assinatura", r"/categoria", r"/tag/", r"/author/", r"/ultimas-noticias/?$", r"/videos-e-podcasts"],
+    },
+]
