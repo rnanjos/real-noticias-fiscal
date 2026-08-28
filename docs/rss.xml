@@ -5,229 +5,117 @@
 <link>https://rnanjos.github.io/real-noticias-fiscal/rss.xml</link>
 <description>Notícias fiscais e tributárias consolidadas das últimas 24 horas.</description>
 <language>pt-BR</language>
-<lastBuildDate>Wed, 26 Aug 2026 16:21:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Aug 2026 00:18:21 +0000</lastBuildDate>
 <item>
-<title>Governo arrecada quase R$ 8 bi com imposto de exportação sobre o petróleo em 2026</title>
-<link>https://www.reformatributaria.com/economia-reforma-tributaria-impactos/governo-arrecada-quase-r-8-bi-com-imposto-de-exportacao-sobre-o-petroleo-em-2026</link>
-<description>Imposto de Exportação sobre o petróleo foi criado para compensar medidas de barateamento de combustíveis no mercado nacional</description>
-<pubDate>Wed, 26 Aug 2026 14:24:54 +0000</pubDate>
-<guid isPermaLink="false">c50a5c1062ea4a3aec7ccf75e669f3f04cd40da340bb434e1083ac28f204986d</guid>
-<category>Portal da Reforma Tributária</category>
-</item>
-<item>
-<title>Governo arrecada R$ 3,14 bi com tributação de dividendos em 2026; expectativa para o ano é R$ 17 bi</title>
-<link>https://www.reformatributaria.com/economia-reforma-tributaria-impactos/governo-arrecada-r-314-bi-com-tributacao-de-dividendos-em-2026-expectativa-para-o-ano-e-r-17-bi</link>
-<description>Tributação de dividendos foi criada para compensar IR isento até R$ 5.000; arrecadação está abaixo das expectativas</description>
-<pubDate>Wed, 26 Aug 2026 14:06:51 +0000</pubDate>
-<guid isPermaLink="false">81969f248f4f9703e0cb58d3eedffe93a661475886f0f3c0794ccb20a27457ec</guid>
-<category>Portal da Reforma Tributária</category>
-</item>
-<item>
-<title>OAB-SP detalha impactos da Reforma Tributária para advogados em nova cartilha</title>
-<link>https://rotadajurisprudencia.com.br/2026/08/oab-sp-detalha-impactos-da-reforma-tributaria-para-advogados-em-nova-cartilha</link>
-<description>A OAB-SP publicou ontem, 25 de agosto, em seu site oficial, a cartilha “Impactos da Reforma Tributária da Advocacia”, material elaborado pela Comissão de Direito Tributário para explicar como as mudanças na tributação do consumo afetam escritórios de advocacia e advogados autônomos. Atualizado em julho de 2026, o documento apresenta os efeitos da Emenda Constitucional nº 132/2023, da Lei Complementar nº 214/2025 e da Lei Complementar nº 227/2026, com atenção às decisões e providências necessárias durante a transição para o novo sistema tributário.</description>
-<pubDate>Wed, 26 Aug 2026 14:00:00 +0000</pubDate>
-<guid isPermaLink="false">85c6ed8bf25a7626474ce4bba7a8d42760a52c4ec0535a1237c10dffe94c8844</guid>
+<title>TRF-3 reconhece pagamentos identificados em DARFs e determina extinção de execução fiscal</title>
+<link>https://rotadajurisprudencia.com.br/2026/08/trf-3-reconhece-pagamentos-identificados-em-darfs-e-determina-extincao-de-execucao-fiscal</link>
+<description>O resultado do julgamento foi favorável ao contribuinte no âmbito do processo 0011494-08.2006.4.03.6182. A 3ª Turma do Tribunal Regional Federal da 3ª Região (TRF-3) decidiu, de forma unânime, dar provimento ao recurso de uma instituição hospitalar para reconhecer a quitação integral de débitos fiscais e determinar a extinção da execução fiscal movida pela União Federal. O colegiado entendeu que a comprovação documental dos pagamentos realizados mediante Documento de Arrecadação de Receitas Federais (DARF), com a identificação precisa de valores e períodos de apuração, afasta a presunção de le</description>
+<pubDate>Thu, 27 Aug 2026 20:10:00 +0000</pubDate>
+<guid isPermaLink="false">44df142d96a5b303df341a3cd5eb04103920769e01b210399f167e80ee17b60d</guid>
 <category>Rota da Jurisprudência</category>
 </item>
 <item>
-<title>União tem recurso negado no STF em disputa sobre benefícios fiscais de entidade de serviço social</title>
-<link>https://rotadajurisprudencia.com.br/2026/08/uniao-tem-recurso-negado-no-stf-em-disputa-sobre-beneficios-fiscais-de-entidade-de-servico-social</link>
-<description>O Supremo Tribunal Federal, em decisão monocrática proferida pelo Ministro Dias Toffoli no Recurso Extraordinário 613638/RS, negou seguimento ao recurso interposto pela União, mantendo o entendimento de que a análise da isenção fiscal concedida a uma entidade de serviço social, prevista em lei específica, possui natureza infraconstitucional. A decisão abordou a controvérsia sobre a necessidade de cumprimento dos requisitos da Lei nº 8.212/1991, em especial a apresentação do Certificado de Entidade Beneficente de Assistência Social (CEBAS), para o reconhecimento de benefícios fiscais a entidade</description>
-<pubDate>Wed, 26 Aug 2026 02:59:59 +0000</pubDate>
-<guid isPermaLink="false">a82b64e2e1985a7ade3fd0dbe39558d540e2515f37c80766e0dffdde29ffd114</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>STF mantém decisão do TRF-3 que reduziu multa de ofício de 100% para 50%</title>
-<link>https://rotadajurisprudencia.com.br/2026/08/stf-mantem-decisao-do-trf-3-que-reduziu-multa-de-oficio-de-100-para-50</link>
-<description>O Supremo Tribunal Federal, em decisão monocrática proferida pelo Ministro Nunes Marques, negou provimento a recurso extraordinário da União, mantendo o entendimento de que a redução de multa de ofício de 100% para 50% do valor do débito tributário, por se considerar confiscatória, não configura declaração incidental de inconstitucionalidade. A decisão, referente ao Processo RE 1017517/SP, reforça a jurisprudência da Corte sobre o princípio do não confisco e a interpretação de normas legais por órgãos fracionários. A União buscava reverter acórdão do Tribunal Federal da 3ª Região que havia ref</description>
-<pubDate>Wed, 26 Aug 2026 02:59:59 +0000</pubDate>
-<guid isPermaLink="false">9b56965dc1e69094b4ea0c00c23b0e4c83769aabf4fb799a66d8cf3d0248f817</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>STF valida cobrança desvinculada da Contribuição de Iluminação Pública na fatura de energia</title>
-<link>https://rotadajurisprudencia.com.br/2026/08/stf-valida-cobranca-desvinculada-da-contribuicao-de-iluminacao-publica-na-fatura-de-energia</link>
-<description>O Supremo Tribunal Federal, em decisão monocrática proferida pelo Ministro Nunes Marques no Processo RE 1583653/RJ, não conheceu do recurso extraordinário interposto pelo Prefeito do Município de Petrópolis. A decisão resultou na manutenção da validade da Lei Municipal n. 8.716/2024, que estabelece a possibilidade de cobrança individualizada da Contribuição para o Custeio do Serviço de Iluminação Pública (COSIP) e do serviço de energia elétrica, com códigos de pagamento separados nas faturas mensais enviadas aos consumidores. O resultado desfavorável ao recorrente significa que a lei municipal</description>
-<pubDate>Wed, 26 Aug 2026 02:59:59 +0000</pubDate>
-<guid isPermaLink="false">d0d259fe7af810c44aacff8a6baedecd318a43bb33a684bd19d95c3514dddf3c</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>STF considera infraconstitucional discussão sobre dedução de multas infracionais da CSLL</title>
-<link>https://rotadajurisprudencia.com.br/2026/08/stf-considera-infraconstitucional-discussao-sobre-deducao-de-multas-infracionais-da-csll</link>
-<description>O Supremo Tribunal Federal, em decisão monocrática proferida pelo Ministro Edson Fachin, rejeitou os embargos de declaração opostos por um grupo empresarial do setor varejista e de serviços financeiros, mantendo a inviabilidade de análise, em sede de recurso extraordinário, da controvérsia sobre a dedutibilidade de multas infracionais na apuração da Contribuição Social sobre o Lucro Líquido (CSLL). A decisão foi tomada no âmbito do processo ARE 1614304 ED, em análise de agravo contra inadmissão de recurso extraordinário, reiterando o entendimento de que a matéria possui caráter infraconstituci</description>
-<pubDate>Wed, 26 Aug 2026 02:59:59 +0000</pubDate>
-<guid isPermaLink="false">f6799816fb9fab638093dcd544ed6effe2633a60e4be2d4007c97ce551381b7d</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>STJ afasta restrições da Lei 14.873/2024 para compensação de créditos discutidos em ações anteriores</title>
-<link>https://rotadajurisprudencia.com.br/2026/08/stj-afasta-restricoes-da-lei-14-873-2024-para-compensacao-de-creditos-discutidos-em-acoes-anteriores</link>
-<description>O Superior Tribunal de Justiça proferiu decisão favorável ao contribuinte no âmbito do Recurso Especial nº 2.289.478 – RJ, mantendo o entendimento que afasta as limitações de compensação tributária introduzidas por legislação superveniente para créditos oriundos de processos ajuizados anteriormente às mudanças normativas. A Ministra Regina Helena Costa, relatora do caso, negou provimento ao recurso interposto pela Fazenda Nacional, validando o acórdão do Tribunal Regional Federal da 2ª Região que garantiu a uma empresa do setor de energia o direito de realizar a compensação integral de seus cr</description>
-<pubDate>Wed, 26 Aug 2026 02:59:59 +0000</pubDate>
-<guid isPermaLink="false">535e847b38766a09ec2abcd374b35485e2be52d3d7ce11433b87e00cf3434d69</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>STJ reafirma exigência de certidões negativas de débitos para concessão de recuperação judicial</title>
-<link>https://rotadajurisprudencia.com.br/2026/08/stj-reafirma-exigencia-de-certidoes-negativas-de-debitos-para-concessao-de-recuperacao-judicial</link>
-<description>O Superior Tribunal de Justiça reafirmou a obrigatoriedade da apresentação de certidões negativas de débitos tributários para a concessão de recuperação judicial, conforme estabelecido no julgamento do Recurso Especial 2.147.071 – SP. A decisão monocrática fundamentou-se na interpretação do artigo 57 da Lei 11.101 de 2005 e do artigo 191-A do Código Tributário Nacional, dispositivos que condicionam a homologação do plano de soerguimento à comprovação da regularidade fiscal do devedor. O entendimento consolidado aponta que, após as alterações promovidas pela Lei 14.112 de 2020, não subsiste a d</description>
-<pubDate>Wed, 26 Aug 2026 02:59:59 +0000</pubDate>
-<guid isPermaLink="false">168e07be754282abebf219ba82aa9b9524587afa622954417309c7398b2d7bf4</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>STJ afasta recurso contra cobrança de ICMS em remessa sem destinatário certo</title>
-<link>https://rotadajurisprudencia.com.br/2026/08/stj-afasta-recurso-contra-cobranca-de-icms-em-remessa-sem-destinatario-certo</link>
-<description>O Superior Tribunal de Justiça, por meio de decisão monocrática proferida pela Ministra Regina Helena Costa no Recurso Especial nº 2290262 – RJ, manteve a validade da cobrança de Imposto sobre Circulação de Mercadorias e Serviços (ICMS) em operações interestaduais de remessa de mercadorias sem destinatário certo. O julgado confirmou o entendimento das instâncias ordinárias que reconheceram a legitimidade de autuação fiscal lavrada pelo Estado do Rio de Janeiro contra uma empresa do setor de explosivos sediada no Espírito Santo. A controvérsia central do processo envolvia a qualificação jurídic</description>
-<pubDate>Wed, 26 Aug 2026 02:59:59 +0000</pubDate>
-<guid isPermaLink="false">99ae6b0491226d0c324a7890f56b94602ae543bbd6b27245789355c9a517ef3a</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>STJ mantém nulidade de cobrança de ICMS pelo regime de Estimativa Simplificada</title>
-<link>https://rotadajurisprudencia.com.br/2026/08/stj-mantem-nulidade-de-cobranca-de-icms-pelo-regime-de-estimativa-simplificada</link>
-<description>O Superior Tribunal de Justiça, por meio de decisão monocrática proferida pelo ministro Gurgel de Faría no Recurso Especial 2287210 – MT, negou provimento ao recurso interposto pelo ente federativo, mantendo o entendimento de que a cobrança de ICMS baseada no regime de estimativa simplificada é insubsistente. A controvérsia jurídica teve origem em uma execução fiscal movida pelo Estado de Mato Grosso, a qual foi questionada por meio de exceção de pré-executividade apresentada por uma empresa de transportes. O resultado do julgamento em instância superior ratificou a nulidade da Certidão de Dív</description>
-<pubDate>Wed, 26 Aug 2026 02:59:59 +0000</pubDate>
-<guid isPermaLink="false">c1231ea7705d101f8342c1d3f0142c9d3eb1a37f7e94ac15b5fe97990d6caa09</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>TRF-3 mantém adicional de 10% nos percentuais do lucro presumido previsto pela LC 224/2025</title>
-<link>https://rotadajurisprudencia.com.br/2026/08/trf3-mantem-adicional-de-10-nos-percentuais-do-lucro-presumido-previsto-pela-lc-224-2025</link>
-<description>A Terceira Turma do Tribunal Regional Federal da 3ª Região decidiu, por maioria de votos, dar provimento ao agravo de instrumento interposto pela União Federal para manter a exigibilidade do adicional de 10% sobre o coeficiente de presunção do lucro presumido, conforme previsto na Lei Complementar 224/2025. O julgamento ocorreu nos autos do processo 5016575-65.2026.4.03.0000 e reformou a decisão de primeira instância que havia concedido liminar em mandado de segurança para suspender a cobrança. A controvérsia jurídica gira em torno da constitucionalidade da majoração da base de cálculo do Impo</description>
-<pubDate>Wed, 26 Aug 2026 02:59:59 +0000</pubDate>
-<guid isPermaLink="false">d1d7868c74e6820b0f05979570281f6ad3f1175a396dd879fa8a171773dff576</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>TRF-3 confirma crédito de COFINS sobre compra de terreno para incorporação imobiliária</title>
-<link>https://rotadajurisprudencia.com.br/2026/08/trf-3-confirma-credito-de-cofins-sobre-compra-de-terreno-para-incorporacao-imobiliaria</link>
-<description>A 6ª Turma do Tribunal Regional Federal da 3ª Região confirmou o resultado favorável ao contribuinte no processo 5035710-72.2021.4.03.6100, assegurando o direito de uma empresa do setor de incorporação imobiliária ao creditamento de COFINS sobre os custos de aquisição de terrenos. A decisão unânime manteve a sentença que reconheceu a existência de indébito tributário após a realização de perícia judicial e o posterior reconhecimento administrativo pela própria autoridade fiscal no curso da ação. O colegiado também rejeitou o pedido da Fazenda Nacional para afastar a condenação em honorários ad</description>
-<pubDate>Wed, 26 Aug 2026 02:59:59 +0000</pubDate>
-<guid isPermaLink="false">87b70a524c9b09e6e7c84d61588834cbe378d03bd24e276326ca709c1776ca61</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>TRF-3 decide que despesas de corretoras com agentes autônomos de investimento não podem ser deduzidas do PIS e da COFINS</title>
-<link>https://rotadajurisprudencia.com.br/2026/08/trf3-decide-que-despesas-de-corretoras-com-agentes-autonomos-de-investimento-nao-podem-ser-deduzidas-do-pis-e-da-cofins</link>
-<description>A Sexta Turma do Tribunal Regional Federal da 3ª Região decidiu, por unanimidade, que as despesas efetuadas por sociedades corretoras com o pagamento de agentes autônomos de investimento não podem ser deduzidas da base de cálculo do PIS e da COFINS. O julgamento do processo 0020000-54.2008.4.03.6100 reformou parcialmente entendimento anterior para manter a exigibilidade do crédito tributário, sob o fundamento de que tais gastos não se enquadram no conceito jurídico de despesas de intermediação financeira previsto na legislação federal. O colegiado acompanhou o voto da relatora, estabelecendo q</description>
-<pubDate>Wed, 26 Aug 2026 02:59:59 +0000</pubDate>
-<guid isPermaLink="false">86b20e9b8647cb5c50c81e142bf6384cd55b38b35ba3de0cbfc3b859dc38b566</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>TRF4 afasta tributação de créditos judiciais antes da homologação da compensação</title>
-<link>https://rotadajurisprudencia.com.br/2026/08/trf4-afasta-tributacao-de-creditos-judiciais-antes-da-homologacao-da-compensacao</link>
-<description>A 1ª Turma do Tribunal Regional Federal da 4ª Região proferiu decisão unânime nos autos da apelação cível número 5011099-69.2025.4.04.7205/SC, reformando sentença anterior para declarar que a incidência do Imposto de Renda da Pessoa Jurídica (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL) sobre créditos tributários reconhecidos judicialmente deve ocorrer apenas no momento da homologação da compensação. O colegiado acompanhou o entendimento da relatora, a juíza federal convocada Adriane Battisti, estabelecendo que o fato gerador desses tributos não se consuma com o trânsito em julg</description>
-<pubDate>Wed, 26 Aug 2026 02:59:59 +0000</pubDate>
-<guid isPermaLink="false">fec71bdf2dd6ce31c72666c56be74cd2ba389086e03686067f854dcffd5422f1</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>Portal lança ferramenta de IA que interpreta a reforma tributária para profissionais</title>
-<link>https://www.reformatributaria.com/reforma-tributaria-setor-educacao/portal-lanca-ferramenta-de-ia-que-interpreta-a-reforma-tributaria-para-profissionais</link>
-<description>A IA combina tecnologia avançada da Google Cloud, em conjunto ao Gemini. A solução é integrada a uma base exclusiva desenvolvida pelo Portal</description>
-<pubDate>Tue, 25 Aug 2026 21:35:18 +0000</pubDate>
-<guid isPermaLink="false">db3402b1c2744de4f1bc756b9e4d600d311a82d554551a5e66ca64f5596064e4</guid>
-<category>Portal da Reforma Tributária</category>
-</item>
-<item>
-<title>NFe ABI: manuais e tabela de códigos regulamentam emissão e adaptação do setor imobiliário ao IBS e à CBS</title>
-<link>https://www.reformatributaria.com/documentos-fiscais/nfe-abi-manuais-e-tabela-de-codigos-regulamentam-emissao-e-adaptacao-do-setor-imobiliario-ao-ibs-e-a-cbs</link>
-<description>Documentos estabelecem regras do modelo 77, leiaute XML e modalidades operacionais da NFe ABI</description>
-<pubDate>Tue, 25 Aug 2026 21:34:11 +0000</pubDate>
-<guid isPermaLink="false">7496b4b1085f50f3ba6ba2cf0d7efefbdf2c652019b6c9a656df958ba54faee8</guid>
-<category>Portal da Reforma Tributária</category>
-</item>
-<item>
-<title>NFGas: manuais de orientação detalham regras e integração ao IBS e CBS</title>
-<link>https://www.reformatributaria.com/documentos-fiscais/nfgas-manuais-de-orientacao-detalham-regras-e-integracao-ao-ibs-e-cbs</link>
-<description>Manuais da NFGas regulamentam a emissão do modelo 76 e a adaptação do setor de gás ao IBS e à CBS</description>
-<pubDate>Tue, 25 Aug 2026 21:29:05 +0000</pubDate>
-<guid isPermaLink="false">e0fb4e4df1ba66c7fa3ee8795a23ef33dcfa87266efcb9424a6914ad24432a7c</guid>
-<category>Portal da Reforma Tributária</category>
-</item>
-<item>
-<title>NFAg: manuais detalham regras do IBS/CBS, cancelamento em faturamento conjunto e documento auxiliar</title>
-<link>https://www.reformatributaria.com/documentos-fiscais/nfag-manuais-detalham-regras-do-ibs-cbs-cancelamento-em-faturamento-conjunto-e-documento-auxiliar</link>
-<description>Atualizações na NFAg definem validações no XML para compras governamentais, procedimentos em faturamento de terceiros e novo leiaute impresso com Pix</description>
-<pubDate>Tue, 25 Aug 2026 20:59:40 +0000</pubDate>
-<guid isPermaLink="false">301e15404891b7f91e7602d20d8693a150599bc7dc0309938cdf3fe1acd11a07</guid>
-<category>Portal da Reforma Tributária</category>
-</item>
-<item>
-<title>BPe: nota técnica regulamenta emissão do bilhete de passagem do transporte aéreo e adequação à reforma tributária</title>
-<link>https://www.reformatributaria.com/documentos-fiscais/bpe-nota-tecnica-regulamenta-emissao-do-bilhete-de-passagem-do-transporte-aereo-e-adequacao-a-reforma-tributaria</link>
-<description>Regulamentação do BPe TA traz regras operacionais e adapta o bilhete do setor aéreo às exigências do IBS e da CBS</description>
-<pubDate>Tue, 25 Aug 2026 20:45:20 +0000</pubDate>
-<guid isPermaLink="false">473a88611dd9f436e0ee51cde93b7f88ca33e680b6931ed3caf943133ec4b977</guid>
-<category>Portal da Reforma Tributária</category>
-</item>
-<item>
-<title>NFe: documentação técnica atualiza regras para split payment e códigos fiscais</title>
-<link>https://www.reformatributaria.com/documentos-fiscais/nfe-documentacao-tecnica-atualiza-regras-para-split-payment-e-codigos-fiscais</link>
-<description>Novas regras tratam da vinculação de pagamentos, emissão simplificada e operações com biocombustíveis</description>
-<pubDate>Tue, 25 Aug 2026 20:33:03 +0000</pubDate>
-<guid isPermaLink="false">ca0161e1df717bdfb677287869cd77e20a6baa8b3cbe24947131f51d29c1ddca</guid>
-<category>Portal da Reforma Tributária</category>
-</item>
-<item>
-<title>Split payment: informe técnico define códigos de meios de pagamento em DFe</title>
-<link>https://www.reformatributaria.com/documentos-fiscais/split-payment-informe-tecnico-define-codigos-de-meios-de-pagamento-em-dfe</link>
-<description>Informe estabelece 6 códigos de meios de pagamento para uso no split payment e vinculação aos DFe</description>
-<pubDate>Tue, 25 Aug 2026 19:57:32 +0000</pubDate>
-<guid isPermaLink="false">cf5bd7b33f1952e144ebedb2823621dfa97db0c3803e317f93452df3a8124267</guid>
-<category>Portal da Reforma Tributária</category>
-</item>
-<item>
-<title>TRF-3 afasta cobrança tributária por entender que falhas formais não descaracterizam drawback-suspensão</title>
-<link>https://rotadajurisprudencia.com.br/2026/08/trf3-afasta-cobranca-tributaria-por-entender-que-falhas-formais-nao-descaracterizam-drawback-suspensao</link>
-<description>A Sexta Turma do Tribunal Regional Federal da 3ª Região reconheceu, por unanimidade, a nulidade integral de uma Certidão de Dívida Ativa (CDA) lavrada contra uma fabricante de condutores elétricos que teve seus benefícios de drawback-suspensão glosados pela fiscalização. O julgamento, referente à apelação cível no processo 5003350-54.2021.4.03.6110, estabeleceu que erros formais no preenchimento de Registros de Exportação (RE) e divergências na classificação fiscal de mercadorias não são suficientes para descaracterizar o regime aduaneiro especial, desde que comprovada a exportação efetiva e o</description>
-<pubDate>Tue, 25 Aug 2026 19:26:00 +0000</pubDate>
-<guid isPermaLink="false">b606270a2da49713731238bee337ccfa4770b1f5190aab91549db0baca011946</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>Empresas do Simples fora do modelo híbrido não farão split payment em 2027</title>
-<link>https://www.reformatributaria.com/tecnologia/empresas-do-simples-fora-do-modelo-hibrido-nao-farao-split-payment-em-2027</link>
-<description>Segundo Cristiane Coelho, 1ª fase do split payment será restrita a operações B2B entre contribuintes de IBS e CBS</description>
-<pubDate>Tue, 25 Aug 2026 18:47:10 +0000</pubDate>
-<guid isPermaLink="false">9276557295c50b29260703fd6e5d0ac069b3ea080a32d19ea0e55185fd7d9610</guid>
-<category>Portal da Reforma Tributária</category>
-</item>
-<item>
-<title>Receita Federal comenta nesta quarta-feira (26) a arrecadação do mês de julho</title>
-<link>https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/receita-federal-comenta-nesta-quarta-feira-26-a-arrecadacao-do-mes-de-julho</link>
-<description>Coletiva será transmitida ao vivo, às 11h, pelo canal do Ministério da Fazenda no YouTube.</description>
-<pubDate>Tue, 25 Aug 2026 18:40:04 +0000</pubDate>
-<guid isPermaLink="false">258511cee56c3604be11ded21b8c41edb639791659037ea90b3558f18f84fd53</guid>
+<title>Receita Federal apreende aproximadamente 300 kg de substância análoga à maconha em duas ações na Ponte da Amizade</title>
+<link>https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/receita-federal-apreende-aproximadamente-300-kg-de-substancia-analoga-a-maconha-em-duas-acoes-na-ponte-da-amizade</link>
+<description>Duas apreensões foram realizadas pela equipe K9 em um intervalo de aproximadamente meia hora.</description>
+<pubDate>Thu, 27 Aug 2026 19:09:13 +0000</pubDate>
+<guid isPermaLink="false">84dee19a628a65867ca67d1f61c1ce47d7023b3ffe7b20c380d3bafb1dd445c7</guid>
 <category>Receita Federal</category>
 </item>
 <item>
-<title>STJ mantém prisão preventiva de contador acusado de fraude milionária no ICMS</title>
-<link>https://rotadajurisprudencia.com.br/2026/08/stj-mantem-prisao-preventiva-de-contador-acusado-de-fraude-milionaria-no-icms</link>
-<description>O Superior Tribunal de Justiça negou provimento ao recurso em habeas corpus interposto por um profissional da contabilidade investigado por suposta participação em organização criminosa voltada à prática de crimes contra a ordem tributária e lavagem de capitais. A decisão, proferida no âmbito do processo RHC 240830 – TO, mantém a prisão preventiva do recorrente, fundamentada na necessidade de garantia da ordem pública e da ordem econômica, diante de indícios de articulação para a geração fraudulenta de créditos de Imposto sobre Circulação de Mercadorias e Serviços (ICMS). O magistrado relator </description>
-<pubDate>Tue, 25 Aug 2026 18:36:00 +0000</pubDate>
-<guid isPermaLink="false">0ede6d22a40c3674a663499000789d9a5e09dee77808e97e530592cf30a69641</guid>
+<title>STJ rejeita recurso da Fazenda e mantém certidão fiscal para empresa sem débitos, mesmo com pendência em DCTFWeb ou GFIP</title>
+<link>https://rotadajurisprudencia.com.br/2026/08/stj-rejeita-recurso-da-fazenda-e-mantem-certidao-fiscal-para-empresa-sem-debitos-mesmo-com-pendencia-em-dctfweb-ou-gfip</link>
+<description>O Superior Tribunal de Justiça, por meio de decisão monocrática da Ministra Regina Helena Costa, manteve o entendimento que autoriza a expedição de certidão de regularidade fiscal em favor de uma empresa que possuía pendência relativa à entrega de obrigação acessória. No julgamento do Recurso Especial nº 2291459/RS, interposto pela Fazenda Nacional, a relatora não acolheu a pretensão do órgão federal de reformar o acórdão do Tribunal Regional Federal da 4ª Região. O tribunal de origem havia consignado que a ausência de apresentação da Declaração de Débitos e Créditos Tributários Federais Previ</description>
+<pubDate>Thu, 27 Aug 2026 19:08:00 +0000</pubDate>
+<guid isPermaLink="false">af2858baa7050dd4bd26425c112b11fc7d00be40e4e9ae88e9738f7ba7dde010</guid>
 <category>Rota da Jurisprudência</category>
 </item>
 <item>
-<title>STF rejeita recurso da União e afasta aplicação do regime de precatórios em caso de compensação tributária</title>
-<link>https://rotadajurisprudencia.com.br/2026/08/stf-rejeita-recurso-da-uniao-e-afasta-aplicacao-do-regime-de-precatorios-em-caso-de-compensacao-tributaria</link>
-<description>O Supremo Tribunal Federal, em decisão monocrática proferida pelo Ministro Relator Flávio Dino no Recurso Extraordinário RE 1616445/SP, negou seguimento ao pleito da União, mantendo a decisão do Tribunal Regional Federal da 3ª Região que havia reconhecido a validade de compensações tributárias efetuadas por uma empresa do setor de veículos e peças. A União recorria com base no artigo 102, III, “a”, da Constituição Federal, argumentando violação ao artigo 100 da Carta Magna, que disciplina o regime de precatórios.</description>
-<pubDate>Tue, 25 Aug 2026 18:18:00 +0000</pubDate>
-<guid isPermaLink="false">02feb2599c07907c90afe3e07508ec60e179d77ee844692d11d99a7702477336</guid>
+<title>TIT-SP mantém ICMS e multa sobre mercadorias que não foram efetivamente exportadas</title>
+<link>https://rotadajurisprudencia.com.br/2026/08/tit-sp-mantem-icms-e-multa-sobre-mercadorias-que-nao-foram-efetivamente-exportadas</link>
+<description>A Quarta Câmara Julgadora do Tribunal de Impostos e Taxas de São Paulo manteve a procedência do Auto de Infração e Imposição de Multa número 5036491-1, consolidando o entendimento de que o recolhimento do ICMS incidente sobre exportações não concretizadas deve ser realizado obrigatoriamente por meio de Guia de Recolhimentos Especiais. A decisão resultou no indeferimento de um pedido de retificação de julgado apresentado por uma exportadora de commodities, que buscava reverter autuação fiscal relativa ao período de janeiro de 2020 a maio de 2022. A controvérsia central girou em torno da forma d</description>
+<pubDate>Thu, 27 Aug 2026 18:36:00 +0000</pubDate>
+<guid isPermaLink="false">d4f8a167ce17e9d2fe0c82a0ec85674f2d2ce256d8066f7e9317d1075d3529a7</guid>
 <category>Rota da Jurisprudência</category>
 </item>
 <item>
-<title>Governo arrecada R$ 289 bilhões com tributos em julho, recorde para o mês</title>
-<link>https://www.reformatributaria.com/economia-reforma-tributaria-impactos/governo-arrecada-r-289-bilhoes-com-tributos-em-junho-recorde-para-o-mes</link>
-<description>Governo arrecada R$ 1,79 trilhão no acumulado do ano; leia apresentação com os dados completos da Receita Federal</description>
-<pubDate>Tue, 25 Aug 2026 17:41:47 +0000</pubDate>
-<guid isPermaLink="false">9d21ef8a21576ef33cc7e4deb8ce9acaa8f98fae491aa485994b68155ffd3a33</guid>
+<title>Art. 6º da LC 214 não traz hipótese de desoneração, diz PGFN</title>
+<link>https://www.reformatributaria.com/iva/art-6o-da-lc-214-nao-traz-hipotese-de-desoneracao-diz-pgfn</link>
+<description>Procuradoria entende que dispositivo atua como norma delimitadora do IVA Dual</description>
+<pubDate>Thu, 27 Aug 2026 18:35:53 +0000</pubDate>
+<guid isPermaLink="false">6c61cae91d7b6f2eb65837800ee8121484a3bbf89846148bf509319eefe209c8</guid>
+<category>Portal da Reforma Tributária</category>
+</item>
+<item>
+<title>Congresso antecipa comissão da MP da “taxa das blusinhas” para 6ª feira</title>
+<link>https://www.reformatributaria.com/reforma-tributaria-congresso-nacional/congresso-antecipa-comissao-da-taxa-das-blusinhas-para-6a-feira</link>
+<description>Taxa das "blusinhas" foi criada em 2024 e revogada em maio de 2026 por uma medida provisória do presidente Lula</description>
+<pubDate>Thu, 27 Aug 2026 18:16:25 +0000</pubDate>
+<guid isPermaLink="false">54e6c6b637c5299904ae33e732dadfe7b99453f914b5da1d1c088493fa3db46b</guid>
+<category>Portal da Reforma Tributária</category>
+</item>
+<item>
+<title>Receita Federal retém quase 250 kg de substância análoga à maconha após tentativa de fuga na Ponte da Amizade</title>
+<link>https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/receita-federal-retem-quase-250-kg-de-substancia-analoga-a-maconha-apos-tentativa-de-fuga-na-ponte-da-amizade</link>
+<description>Ação contou com o apoio da agente canina Urla, que indicou a presença de entorpecentes no veículo.</description>
+<pubDate>Thu, 27 Aug 2026 18:02:19 +0000</pubDate>
+<guid isPermaLink="false">bc230e9dffa00bd6c8f5ad4bfc753a58438bc5694c05ff3af3c4e80496aea3fc</guid>
+<category>Receita Federal</category>
+</item>
+<item>
+<title>Sem acordo com o governo, Congresso deve analisar novo teto do MEI fica depois das eleições</title>
+<link>https://www.reformatributaria.com/reforma-tributaria-congresso-nacional/sem-acordo-com-o-governo-congresso-deve-analisar-novo-teto-do-mei-fica-depois-das-eleicoes</link>
+<description>Governo quer elevar somente o teto do MEI, enquanto congressistas buscam mudar os limites de todo o Simples Nacional</description>
+<pubDate>Thu, 27 Aug 2026 16:00:35 +0000</pubDate>
+<guid isPermaLink="false">45513bb0c3c7af43d2ad07815779c92f3b7258a517d85fc94f81898791881d6a</guid>
+<category>Portal da Reforma Tributária</category>
+</item>
+<item>
+<title>Conselheiro do CARF afasta aplicação de tese do STF a multas isoladas</title>
+<link>https://rotadajurisprudencia.com.br/reunioes-apet/conselheiro-do-carf-afasta-aplicacao-de-tese-do-stf-a-multas-isoladas</link>
+<description>O Conselho Administrativo de Recursos Fiscais (CARF) manteve autuação contra a Soycomex Comercial Exportadora Ltda., que questionava a exigência de multas isoladas de IRPJ e CSLL referentes ao ano de 2010. A autuação decorreu de dedução indevida de despesas, divergência de DIPJ e, principalmente, falta de recolhimento de estimativas que se tornaram insuficientes, resultando na cobrança apenas das multas isoladas, pois o valor principal foi absorvido por prejuízos fiscais. A contribuinte sustentava a decadência do crédito, a impossibilidade de aplicação de multa isolada diante da apuração de pr</description>
+<pubDate>Thu, 27 Aug 2026 15:07:00 +0000</pubDate>
+<guid isPermaLink="false">c0b7ddad200f035109fcc44fa206d30a2a9ac3af25d32e1ed263bff3a422c9af</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>Fernando Neves é o novo diretor tributário e fiscal no Grupo União Química</title>
+<link>https://www.reformatributaria.com/como-anda-o-mercado/fernando-neves-e-o-novo-diretor-tributario-e-fiscal-no-grupo-uniao-quimica</link>
+<description>Leia as movimentações do mercado tributário</description>
+<pubDate>Thu, 27 Aug 2026 14:31:58 +0000</pubDate>
+<guid isPermaLink="false">4068040439555cade581c4fd7376928729fb849bd0a63411c6091d65a0326c9a</guid>
+<category>Portal da Reforma Tributária</category>
+</item>
+<item>
+<title>Receita Federal apreende medicamentos para emagrecimento ocultos em tênis de passageira</title>
+<link>https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/tenis-do-crime-receita-federal-encontra-emagrecedores-escondidos</link>
+<description>Produtos foram localizados durante inspeção de rotina em ônibus com destino a Curitiba.</description>
+<pubDate>Thu, 27 Aug 2026 11:10:00 +0000</pubDate>
+<guid isPermaLink="false">07afe8110fb875111bde407b8501d0660d7f4d98bdb7bc1739064bc15e56d0c9</guid>
+<category>Receita Federal</category>
+</item>
+<item>
+<title>Operação Peça-Chave combate descaminho de autopeças e lavagem de capitais em São Paulo e Mato Grosso do Sul</title>
+<link>https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/operacao-peca-chave-combate-descaminho-de-autopecas-e-lavagem-de-capitais-em-sao-paulo-e-mato-grosso-do-sul</link>
+<description>Ação da Receita Federal e da Polícia Federal busca desarticular organização criminosa suspeita de internalizar e comercializar irregularmente autopeças no país.</description>
+<pubDate>Thu, 27 Aug 2026 11:05:00 +0000</pubDate>
+<guid isPermaLink="false">1b4623ec87434c9e89a799c7e01a6ea620617be6afeb9a2e896e6af7af79587b</guid>
+<category>Receita Federal</category>
+</item>
+<item>
+<title>Creditamento no segmento de seguros: o legislador esqueceu os estipulantes e tomadores?</title>
+<link>https://www.reformatributaria.com/opiniao/creditamento-no-segmento-de-seguros-o-legislador-esqueceu-dos-estipulantes-e-tomadores</link>
+<description>Paulo Andrade escreve sobre possível falha no creditamento de IBS/CBS em seguros coletivos e garantias</description>
+<pubDate>Thu, 27 Aug 2026 10:00:00 +0000</pubDate>
+<guid isPermaLink="false">5f64ddf3fbe670d7ca3987089adef22ee104a3a807a19ea2364dd4602a137f0d</guid>
+<category>Portal da Reforma Tributária</category>
+</item>
+<item>
+<title>Segurança jurídica, motor de regras e a gramática feminina do Sistema CBS/IBS</title>
+<link>https://www.reformatributaria.com/opiniao/seguranca-juridica-motor-de-regras-e-a-gramatica-feminina-do-sistema-cbs-ibs</link>
+<description>Eurico Santi escreve sobre como a reforma tributária pode ampliar a segurança jurídica por meio da tecnologia e de uma relação cooperativa entre Fisco e contribuinte</description>
+<pubDate>Thu, 27 Aug 2026 10:00:00 +0000</pubDate>
+<guid isPermaLink="false">44ad88a0bf8438b00be7945cb06e5fd8323d532a23ca8282c3935708f1f30d40</guid>
 <category>Portal da Reforma Tributária</category>
 </item>
 </channel>
