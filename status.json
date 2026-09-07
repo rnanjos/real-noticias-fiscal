@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-06T14:33:31.968885-03:00",
+  "generatedAt": "2026-09-07T16:02:45.339408-03:00",
   "windowHours": 24,
   "sources": [
     {
       "name": "Receita Federal",
-      "ok": false,
-      "found": 0,
+      "ok": true,
+      "found": 15,
       "accepted": 0,
-      "error": "HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /receitafederal/pt-br/assuntos/noticias/ultimas-noticias/RSS (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+      "error": ""
     },
     {
       "name": "Portal Contábeis",
@@ -42,7 +42,7 @@
       "ok": false,
       "found": 0,
       "accepted": 0,
-      "error": "HTTPSConnectionPool(host='www.confaz.fazenda.gov.br', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.confaz.fazenda.gov.br', port=443) at 0x7f3b69cf5e20>, 'Connection to www.confaz.fazenda.gov.br timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.confaz.fazenda.gov.br', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.confaz.fazenda.gov.br', port=443) at 0x7f76c1e16b40>, 'Connection to www.confaz.fazenda.gov.br timed out. (connect timeout=25)'))"
     },
     {
       "name": "Portal da Reforma Tributária",
