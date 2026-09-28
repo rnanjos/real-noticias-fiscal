@@ -5,29 +5,85 @@
 <link>https://rnanjos.github.io/real-noticias-fiscal/rss.xml</link>
 <description>Notícias fiscais e tributárias consolidadas das últimas 24 horas.</description>
 <language>pt-BR</language>
-<lastBuildDate>Sun, 27 Sep 2026 18:56:16 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 21:08:14 +0000</lastBuildDate>
 <item>
-<title>Tecnologia e gestão como pilares da transformação das Secretarias de Fazenda</title>
-<link>https://www.reformatributaria.com/opiniao/tecnologia-e-gestao-como-pilares-da-transformacao-das-secretarias-de-fazenda</link>
-<description>Especialistas da AWS, Deloitte e FGV discutem os desafios de tecnologia da reforma tributária para as Secretarias de Fazenda</description>
-<pubDate>Sun, 27 Sep 2026 17:33:18 +0000</pubDate>
-<guid isPermaLink="false">cc0aeadcba122beedd5281c67fe02c38f8d24f5523c815c75492b6381a1b53c9</guid>
+<title>STJ distingue tratamento tributário de incentivos de ICMS e condiciona exclusão de isenções e reduções ao cumprimento de requisitos legais</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/stj-distingue-tratamento-tributario-de-incentivos-de-icms-e-condiciona-exclusao-de-isencoes-e-reducoes-ao-cumprimento-de-requisitos-legais</link>
+<description>O Superior Tribunal de Justiça proferiu decisão que estabeleceu a manutenção de critérios distintos para a exclusão de incentivos fiscais de ICMS da base de cálculo do Imposto de Renda da Pessoa Jurídica e da Contribuição Social sobre o Lucro Líquido, conforme os autos do Recurso Especial 2.284.436 – SC. O entendimento ratificou o resultado material obtido em instância inferior, garantindo que o crédito presumido de ICMS seja excluído de forma incondicionada das bases de cálculo referidas, enquanto outros benefícios fiscais, tais como isenções e reduções de alíquota, permanecem condicionados a</description>
+<pubDate>Mon, 28 Sep 2026 18:51:00 +0000</pubDate>
+<guid isPermaLink="false">a71b56245b9553be14fc49c5faf34d6efa24c7b1d98f76389ddd0af62970153a</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>STF valida limitação mensal para compensação de créditos tributários judiciais</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/stf-valida-limitacao-mensal-para-compensacao-de-creditos-tributarios-judiciais</link>
+<description>O Supremo Tribunal Federal (STF) decidiu, por unanimidade de votos, em julgamento favorável ao fisco, a constitucionalidade das restrições impostas à compensação de créditos tributários decorrentes de decisões judiciais transitadas em julgado. A análise ocorreu no âmbito da Ação Direta de Inconstitucionalidade 7.587, em conjunto com a ADI 7.609, nas quais o colegiado acompanhou integralmente o voto do relator, ministro Cristiano Zanin. O julgamento validou as alterações promovidas na Lei 9.430 de 1996, especificamente pela conversão da Medida Provisória 1.202 de 2023 na Lei 14.873 de 2024, que</description>
+<pubDate>Mon, 28 Sep 2026 18:20:00 +0000</pubDate>
+<guid isPermaLink="false">25d4cf3f965d07e8bc995a7e4e1b5a49ef71893be86e6217890d190fff9b4e96</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>Receita divulga balanço de solicitações ao Simples Nacional e ao regime regular do IBS/CBS e esclarece prazo para MEIs</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/receita-divulga-balanco-de-solicitacoes-ao-simples-nacional-e-ao-regime-regular-do-ibs-cbs-e-esclarece-prazo-para-meis</link>
+<description>A Receita Federal, por meio de seus canais oficiais de comunicação, divulgou, na sexta-feira (25/9), duas informações importantes para os contribuintes no contexto da reforma tributária. A primeira apresenta um novo balanço das solicitações de opção pelo Simples Nacional e pelo regime regular do Imposto sobre Bens e Serviços (IBS) e da Contribuição sobre Bens e Serviços (CBS). A segunda esclarece que o prazo para solicitar o enquadramento no Sistema de Recolhimento em Valores Fixos Mensais dos Tributos abrangidos pelo Simples Nacional (Simei), destinado aos microempreendedores individuais (MEI</description>
+<pubDate>Mon, 28 Sep 2026 17:23:00 +0000</pubDate>
+<guid isPermaLink="false">c4b2e7f93993d2933a97be0b6ef541df51b4f3bee5f130f74e1bf12d0d1c26ec</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>Opção pelo Simei continua em janeiro, reforça Receita Federal</title>
+<link>https://www.reformatributaria.com/reforma-tributaria-brasil/opcao-pelo-simei-continua-em-janeiro-reforca-receita-federal</link>
+<description>Mudança de prazo para setembro vale apenas para o Simples Nacional; no caso do MEI, enquadramento para 2027 deve ser feito no início do ano</description>
+<pubDate>Mon, 28 Sep 2026 15:04:32 +0000</pubDate>
+<guid isPermaLink="false">11e16475e6e1181102af0869aa122e8df7e69f7a609277d3510c7d93cc130fb7</guid>
 <category>Portal da Reforma Tributária</category>
 </item>
 <item>
-<title>Tax Professionals #7: Sara Santos</title>
-<link>https://www.reformatributaria.com/negocios/tax-professionals-7-sara-santos</link>
-<description>Diretora tributária da Colgate-Palmolive Brasil conta como construiu sua trajetória na área fiscal</description>
-<pubDate>Sun, 27 Sep 2026 15:39:41 +0000</pubDate>
-<guid isPermaLink="false">fc41de2d0dcbaa5dcce41f507c3b388d535d86e4da969cf204c511b2d4a170c5</guid>
+<title>Receita Federal e CFC concluem curso sobre reforma tributária com mais de 200 mil inscritos</title>
+<link>https://www.reformatributaria.com/iva/receita-federal-e-cfc-concluem-curso-sobre-reforma-tributaria-com-mais-de-200-mil-inscritos</link>
+<description>Formação composta por 18 módulos registrou mais de 1 milhão de acessos aos conteúdos digitais</description>
+<pubDate>Mon, 28 Sep 2026 14:45:47 +0000</pubDate>
+<guid isPermaLink="false">9b7eb17a3a2a69b9d26dc41a822b1694bcdf6990153f24c6acbe288ec1439356</guid>
 <category>Portal da Reforma Tributária</category>
 </item>
 <item>
-<title>"Vacina de comunicação": projeto de documentário quer explicar reforma tributária com diferentes linguagens</title>
-<link>https://www.reformatributaria.com/reforma-tributaria-brasil/vacina-de-comunicacao-projeto-de-documentario-quer-explicar-reforma-tributaria-com-diferentes-linguagens</link>
-<description>Idealizada por Eurico Santi, Flavio Waiteman e Paulo Dantas, proposta de série em 6 episódios busca "furar a bolha" do debate técnico para alcançar do empresário ao cidadão comum</description>
-<pubDate>Sun, 27 Sep 2026 11:18:00 +0000</pubDate>
-<guid isPermaLink="false">33642af0ea6d03b11e4f81d90be72923987f85c03a6974cb779b1cc06a421065</guid>
+<title>TCU julga cálculo para compensar perdas de estados e prefeituras em 2027 com substituição do IPI pelo IS</title>
+<link>https://www.reformatributaria.com/impostoseletivo/tcu-julga-calculo-para-compensar-perdas-de-estados-e-prefeituras-em-2027-com-substituicao-do-ipi-pelo-is</link>
+<description>Processo sob relatoria do ministro Jorge Oliveira trata da metodologia do valor de referência para as transferências constitucionais</description>
+<pubDate>Mon, 28 Sep 2026 14:16:14 +0000</pubDate>
+<guid isPermaLink="false">0108758b1f47a8cd59346ce7c105c303109d97f22bde9b3640a2f517fc0defae</guid>
+<category>Portal da Reforma Tributária</category>
+</item>
+<item>
+<title>Antônio Roberto Sampaio Dória: entre a Constituição, o federalismo e os limites da elisão fiscal</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/antonio-roberto-sampaio-doria-entre-a-constituicao-o-federalismo-e-os-limites-da-elisao-fiscal</link>
+<description>Ao longo desta série dedicada aos grandes nomes do Direito Tributário brasileiro, procuramos mostrar como diferentes juristas contribuíram, cada qual a seu modo, para a formação e o desenvolvimento da disciplina no país. Se Rubens Gomes de Sousa pode ser visto como um dos grandes arquitetos de sua sistematização, Ruy Barbosa Nogueira teve papel decisivo em sua institucionalização acadêmica. Gerson Augusto da Silva, por sua vez, deixou contribuição particularmente relevante para a formação e organização da administração tributária, enquanto Gilberto de Ulhôa Canto se destacou pela construção da</description>
+<pubDate>Mon, 28 Sep 2026 13:49:00 +0000</pubDate>
+<guid isPermaLink="false">6473ca3e5c84cef49017c1293f5e421b63e05081876996d7ac6365026c194afa</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>Receita Federal participa da Operação Hermanos</title>
+<link>https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-participa-da-operacao-hermanos</link>
+<description>Operação busca aprofundar a investigação sobre um suposto esquema de lavagem de capitais que teria utilizado estruturas empresariais formalmente constituídas para ocultar, movimentar e reinserir recursos de possível origem ilícita no sistema financeiro nacional.</description>
+<pubDate>Mon, 28 Sep 2026 11:38:00 +0000</pubDate>
+<guid isPermaLink="false">9fb9d472ea63a0b1cbf5978341c7dfc3fe5ababfe49d20c67f2aaebe3abdb8d9</guid>
+<category>Receita Federal</category>
+</item>
+<item>
+<title>George Westerman, do MIT, trará em palestra análise sobre como transformar experimentos com IA em valor real de negócios</title>
+<link>https://www.reformatributaria.com/tecnologia/george-westerman-do-mit-trara-ao-universo-totvs-2026-analise-sobre-como-transformar-experimentos-com-ia-em-valor-real-de-negocios</link>
+<description>Um dos maiores especialistas globais da MIT Sloan School of Management apresentará caminhos práticos para lideranças e C-levels</description>
+<pubDate>Mon, 28 Sep 2026 11:00:00 +0000</pubDate>
+<guid isPermaLink="false">134e08a48fbcead7fcce05a3567714bd3166339db01bfeb4e559747d3cbb4ee6</guid>
+<category>Portal da Reforma Tributária</category>
+</item>
+<item>
+<title>Streaming negocia com governo envio de dados na reforma</title>
+<link>https://www.reformatributaria.com/tecnologia/streaming-negocia-com-receita-envio-de-dados-na-reforma</link>
+<description>Empresas de streaming e outras plataformas digitais estão em negociação com a Receita Federal para ajustar pontos operacionais da reforma tributária</description>
+<pubDate>Mon, 28 Sep 2026 09:00:00 +0000</pubDate>
+<guid isPermaLink="false">6de433392f421ef1845fa378d452e4c12808f4118eed4a997837b4722a126815</guid>
 <category>Portal da Reforma Tributária</category>
 </item>
 </channel>
