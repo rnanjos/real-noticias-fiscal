@@ -5,86 +5,238 @@
 <link>https://rnanjos.github.io/real-noticias-fiscal/rss.xml</link>
 <description>Notícias fiscais e tributárias consolidadas das últimas 24 horas.</description>
 <language>pt-BR</language>
-<lastBuildDate>Mon, 28 Sep 2026 21:08:14 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 19:52:26 +0000</lastBuildDate>
 <item>
-<title>STJ distingue tratamento tributário de incentivos de ICMS e condiciona exclusão de isenções e reduções ao cumprimento de requisitos legais</title>
-<link>https://rotadajurisprudencia.com.br/2026/09/stj-distingue-tratamento-tributario-de-incentivos-de-icms-e-condiciona-exclusao-de-isencoes-e-reducoes-ao-cumprimento-de-requisitos-legais</link>
-<description>O Superior Tribunal de Justiça proferiu decisão que estabeleceu a manutenção de critérios distintos para a exclusão de incentivos fiscais de ICMS da base de cálculo do Imposto de Renda da Pessoa Jurídica e da Contribuição Social sobre o Lucro Líquido, conforme os autos do Recurso Especial 2.284.436 – SC. O entendimento ratificou o resultado material obtido em instância inferior, garantindo que o crédito presumido de ICMS seja excluído de forma incondicionada das bases de cálculo referidas, enquanto outros benefícios fiscais, tais como isenções e reduções de alíquota, permanecem condicionados a</description>
-<pubDate>Mon, 28 Sep 2026 18:51:00 +0000</pubDate>
-<guid isPermaLink="false">a71b56245b9553be14fc49c5faf34d6efa24c7b1d98f76389ddd0af62970153a</guid>
+<title>Portal da Reforma Tributária lança simulador de resíduo tributário</title>
+<link>https://www.reformatributaria.com/institucional-portal-reforma-tributaria/portal-da-reforma-tributaria-lanca-simulador-de-residuo-tributario</link>
+<description>Por Douglas Rodrigues O Portal da Reforma Tributária colocou no ar um simulador de resíduo tributário. A ferramenta fica na […]</description>
+<pubDate>Tue, 29 Sep 2026 19:47:17 +0000</pubDate>
+<guid isPermaLink="false">297984257c352401ee8cf2645bdc284bd5f41061cb6313bb6dc88becbed31898</guid>
+<category>Portal da Reforma Tributária</category>
+</item>
+<item>
+<title>TJ-SP fixa prazo para Fazenda estadual analisar pedidos de ressarcimento de ICMS-ST</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/tj-sp-fixa-prazo-para-fazenda-estadual-analisar-pedidos-de-ressarcimento-de-icms-st</link>
+<description>A 5ª Câmara de Direito Público do Tribunal de Justiça de São Paulo proferiu decisão favorável ao contribuinte nos autos da Apelação e Remessa Necessária nº 1058547-46.2026.8.26.0053, confirmando a concessão de mandado de segurança que determina à administração tributária estadual a conclusão da análise meritória de requerimentos administrativos de ressarcimento de ICMS sob o regime de substituição tributária no prazo improrrogável legalmente fixado. O colegiado negou provimento à apelação interposta pela Fazenda Pública estadual e ao reexame necessário, mantendo a determinação de cumprimento s</description>
+<pubDate>Tue, 29 Sep 2026 19:28:00 +0000</pubDate>
+<guid isPermaLink="false">0a82c26c7224cca934400074054d591ddf7a710d0bf779d527c9c62af7108659</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>STJ mantém incidência de IRPJ e CSLL sobre diferimento de ICMS após Lei 14.789/2023</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/stj-mantem-incidencia-de-irpj-e-csll-sobre-diferimento-de-icms-apos-lei-14-789-2023</link>
+<description>O Superior Tribunal de Justiça (STJ) negou provimento ao recurso especial interposto por uma indústria de materiais de limpeza, mantendo a incidência de tributos federais sobre benefícios fiscais de ICMS sob a égide do novo regime jurídico instituído pela Lei 14.789/2023. No julgamento do Recurso Especial 2282599/RS, o ministro relator Gurgel de Faria validou o entendimento da instância inferior que considerou legal a inclusão de valores decorrentes de diferimento de ICMS nas bases de cálculo do Imposto de Renda da Pessoa Jurídica (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL). O</description>
+<pubDate>Tue, 29 Sep 2026 19:13:00 +0000</pubDate>
+<guid isPermaLink="false">5571586b79ae97acca5df7b8de5479b37378c351fc35fc3e644ff72c2ea5068e</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>Ana Paula Braga foi promovida a coordenadora fiscal na TCL SEMP</title>
+<link>https://www.reformatributaria.com/como-anda-o-mercado/ana-paula-braga-foi-promovida-a-coordenadora-fiscal-na-tcl-semp</link>
+<description>A profissional é bacharel em Ciências Contábeis pela Uninove</description>
+<pubDate>Tue, 29 Sep 2026 19:10:22 +0000</pubDate>
+<guid isPermaLink="false">3a6f3c88f8e40ade2d904b52fc4411a77056db90b258e691bcfda0b645b17120</guid>
+<category>Portal da Reforma Tributária</category>
+</item>
+<item>
+<title>Gustavo do Carmo é o novo COO da ROIT</title>
+<link>https://www.reformatributaria.com/como-anda-o-mercado/gustavo-do-carmo-e-o-novo-coo-da-roit</link>
+<description>O profissional tem mais de 20 anos de experiência em consultoria tributária em escritórios de advocacia no Brasil</description>
+<pubDate>Tue, 29 Sep 2026 19:05:57 +0000</pubDate>
+<guid isPermaLink="false">77bb99ee0a0eb47d93bc37b5a5631fb970a5fe5e835311cc875e16e48ab2c9ff</guid>
+<category>Portal da Reforma Tributária</category>
+</item>
+<item>
+<title>Receita Federal define regras para declaração de subvenções de ICMS na Dirbi</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/receita-federal-define-regras-para-declaracao-de-subvencoes-de-icms-na-dirbi</link>
+<description>A Secretaria Especial da Receita Federal do Brasil, por meio da Coordenação-Geral de Tributação, publicou a Solução de Consulta COSIT nº 187, consolidando o entendimento acerca da tributação de subvenções governamentais e a obrigatoriedade de apresentação da Declaração de Incentivos, Renúncias, Benefícios e Imunidades de Natureza Tributária, a Dirbi. O posicionamento oficial confirma que, sob a égide da Lei número 14.789, de 29 de dezembro de 2023, é vedada a exclusão das receitas de subvenções, inclusive créditos presumidos de ICMS, da base de cálculo do IRPJ e da CSLL, a partir de 1º de jane</description>
+<pubDate>Tue, 29 Sep 2026 18:14:00 +0000</pubDate>
+<guid isPermaLink="false">426d7414a97f8f325ec98f632bed7d4a0f7a13a1ba9dd8ae9c50760eb0163aa4</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>Tribunais de Contas elegem nesta 4ª feira Conselho Diretor para controle externo do Comitê Gestor do IBS</title>
+<link>https://www.reformatributaria.com/comite-gestor-do-ibs-reforma-tributaria/tribunais-de-contas-elegem-nesta-4a-feira-conselho-diretor-para-controle-externo-do-comite-gestor-do-ibs</link>
+<description>Chapa única reúne 11 integrantes das cinco regiões do país</description>
+<pubDate>Tue, 29 Sep 2026 18:00:02 +0000</pubDate>
+<guid isPermaLink="false">e7a2330daf8b4693311469e983cb0ddb3df42dd4c44d81a708de1759f2964e6f</guid>
+<category>Portal da Reforma Tributária</category>
+</item>
+<item>
+<title>Municípios podem autorizar empresas do Simples a usar emissor nacional de NFSe antes da obrigatoriedade</title>
+<link>https://www.reformatributaria.com/documentos-fiscais/municipios-podem-autorizar-empresas-do-simples-a-usar-emissor-nacional-de-nfse-antes-da-obrigatoriedade</link>
+<description>Nova funcionalidade está disponível no Painel Administrativo Municipal</description>
+<pubDate>Tue, 29 Sep 2026 17:03:57 +0000</pubDate>
+<guid isPermaLink="false">88daa8bc516ea077563cc751575bc5251a26818cec9ebd258bcfeb27590d44b7</guid>
+<category>Portal da Reforma Tributária</category>
+</item>
+<item>
+<title>Reforma tributária: novas regras ampliam prazos para opção e cancelamento dos regimes de IBS e CBS para empresas do Simples</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/reforma-tributaria-novas-regras-ampliam-prazos-para-opcao-e-cancelamento-dos-regimes-de-ibs-e-cbs-para-empresas-do-simples</link>
+<description>O Comitê Gestor do Simples Nacional (CGSN) ampliou os prazos para que microempresas e empresas de pequeno porte solicitem o ingresso no Simples Nacional em 2027 e escolham o regime de apuração e recolhimento do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS). As alterações constam da Resolução CGSN nº 194, publicada no Diário Oficial da União em 28 de setembro, que modifica as regras anteriormente estabelecidas pela Resolução CGSN nº 186, de 9 de abril de 2026.</description>
+<pubDate>Tue, 29 Sep 2026 15:16:00 +0000</pubDate>
+<guid isPermaLink="false">4469db2932622bd4fbc441b56bda2a66192b5d47b266e3de2548ad845c97ca90</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>DeRE: Comitê Gestor do IBS e Receita Federal divulgam endpoints para transmissão de declarações</title>
+<link>https://www.reformatributaria.com/documentos-fiscais/dere-comite-gestor-do-ibs-e-receita-federal-divulgam-endpoints-para-transmissao-de-declaracoes</link>
+<description>Tráfego de transmissão será aberto na 5ª feira (1º.out), às 9h</description>
+<pubDate>Tue, 29 Sep 2026 14:54:37 +0000</pubDate>
+<guid isPermaLink="false">5c0c9a2fd5eb5dd2da75d396e9114aae5dc9d3ef70d6ca4d93eed01d93ea7499</guid>
+<category>Portal da Reforma Tributária</category>
+</item>
+<item>
+<title>TIT-SP debate aplicação imediata da LC nº 236/2026 para redução de multa tributária</title>
+<link>https://rotadajurisprudencia.com.br/reunioes-apet/tit-sp-debate-aplicacao-imediata-da-lc-no-236-2026-para-reducao-de-multa-tributaria</link>
+<description>O Tribunal de Impostos e Taxas (TIT) concedeu provimento parcial ao recurso ordinário da Raizen Energia S.A. e negou provimento ao recurso de ofício, mantendo parte de um auto de infração que cobrava ICMS em decorrência da não comprovação de efetiva exportação de mercadorias, mas reduziu a multa aplicada. A autuação original baseava-se no artigo 445 do Regulamento do ICMS e no Convênio ICMS 84/2009, decorrente da presunção de operação interna para mercadorias destinadas à exportação que não tiveram sua saída comprovada. A controvérsia central do caso envolvia a exigência do ICMS sobre perdas e</description>
+<pubDate>Tue, 29 Sep 2026 14:45:00 +0000</pubDate>
+<guid isPermaLink="false">983fbc57d78ca80caf97b64e34f1d49c9e9e4108295b67334d231001387a4b87</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>Levantamento da CNM projeta receitas de cada município com o IBS até 2078</title>
+<link>https://www.reformatributaria.com/iva/levantamento-da-cnm-projeta-receitas-de-cada-municipio-com-o-ibs-ate-2078</link>
+<description>Estudo também classifica os entes como ganhadores, perdedores ou neutros</description>
+<pubDate>Tue, 29 Sep 2026 14:24:42 +0000</pubDate>
+<guid isPermaLink="false">7124472d400c995f44780b578ed14603413ef50bf7e02f0ea5944e13fb45137a</guid>
+<category>Portal da Reforma Tributária</category>
+</item>
+<item>
+<title>CBS/IBS: Simples Nacional registra 586,7 mil solicitações pelo modelo híbrido, 8,3% do mercado</title>
+<link>https://www.reformatributaria.com/iva/cbs-ibs-5867-mil-empresas-do-simples-nacional-solicitam-modelo-hibrido-83-do-total</link>
+<description>Receita registra 370 mil pedidos de opção pelo Simples Nacional</description>
+<pubDate>Tue, 29 Sep 2026 14:03:08 +0000</pubDate>
+<guid isPermaLink="false">1064f364d5d963d5d97e6a8954db6d42a7f5b90c6a427d85d40cee4cdbe79c3a</guid>
+<category>Portal da Reforma Tributária</category>
+</item>
+<item>
+<title>LC 236/2026 e prescrição da compensação de créditos tributários reconhecidos judicialmente: o veto ao § 1º do art. 168 do CTN revelou uma lacuna legislativa?</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/lc-236-2026-e-prescricao-da-compensacao-de-creditos-tributarios-reconhecidos-judicialmente-o-veto-ao-%c2%a7-1o-do-art-168-do-ctn-revelou-uma-lacuna-legislativa</link>
+<description>Recentemente, o Congresso aprovou e a Presidência sancionou a LC nº 236/2026, que promoveu alterações relevantes no CTN, a fim de modernizar os processos tributários judicial e administrativo, estabelecer limites ao regime sancionatório e atualizar regras relacionadas à fiscalização, à cobrança e aos mecanismos de solução de controvérsias.</description>
+<pubDate>Tue, 29 Sep 2026 13:49:00 +0000</pubDate>
+<guid isPermaLink="false">f69c326cc09999ccd621b39d9024dcce159122dd3c2fb85d16c4eaa06976e4f6</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>Opção pelo regime regular de IBS e CBS no Simples Nacional é prorrogada para 30 de outubro; entenda as novas datas</title>
+<link>https://www.reformatributaria.com/iva/opcao-pelo-regime-regular-de-ibs-e-cbs-no-simples-nacional-e-prorrogada-para-30-de-outubro-entenda-as-novas-datas</link>
+<description>Empresas poderão cancelar a escolha entre 3 de novembro e 20 de dezembro</description>
+<pubDate>Tue, 29 Sep 2026 13:15:47 +0000</pubDate>
+<guid isPermaLink="false">c45c34bef21b3e4229b79ef4183ae3a2da623ee5c5b6a6d307cb9ab2108a64be</guid>
+<category>Portal da Reforma Tributária</category>
+</item>
+<item>
+<title>Setor de saúde espera aumento de carga e deve levar Sabin a rever contratos, preços e estrutura</title>
+<link>https://www.reformatributaria.com/iva/setor-de-saude-espera-aumento-de-carga-e-deve-levar-sabin-a-rever-contratos-precos-e-estrutura</link>
+<description>O planejamento atual do Sabin projeta um aumento da carga tributária no setor de saúde em decorrência da reforma, segundo o diretor financeiro da companhia, José Francisco Viana</description>
+<pubDate>Tue, 29 Sep 2026 11:11:00 +0000</pubDate>
+<guid isPermaLink="false">45adf0e45d2a09053f0cc0f76b8969204647c8a62e57ba716a173057dccc6b3a</guid>
+<category>Portal da Reforma Tributária</category>
+</item>
+<item>
+<title>Receita divulga balanço de solicitações ao Simples Nacional e ao regime regular do IBS/CBS e esclarece prazo para MEIs</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/receita-divulga-balanco-de-solicitacoes-ao-simples-nacional-e-ao-regime-regular-do-ibs-cbs-e-esclarece-prazo-para-meis</link>
+<description>A Receita Federal, por meio de seus canais oficiais de comunicação, divulgou, na sexta-feira (25/9), duas informações importantes para os contribuintes no contexto da reforma tributária. A primeira apresenta um novo balanço das solicitações de opção pelo Simples Nacional e pelo regime regular do Imposto sobre Bens e Serviços (IBS) e da Contribuição sobre Bens e Serviços (CBS). A segunda esclarece que o prazo para solicitar o enquadramento no Sistema de Recolhimento em Valores Fixos Mensais dos Tributos abrangidos pelo Simples Nacional (Simei), destinado aos microempreendedores individuais (MEI</description>
+<pubDate>Tue, 29 Sep 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">c4b2e7f93993d2933a97be0b6ef541df51b4f3bee5f130f74e1bf12d0d1c26ec</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>Fim de benefícios de ICMS por decisão unilateral de São Paulo é considerado inconstitucional pelo STF</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/fim-de-beneficios-de-icms-por-decisao-unilateral-de-sao-paulo-e-considerado-inconstitucional-pelo-stf</link>
+<description>O Supremo Tribunal Federal (STF) decidiu, por maioria, que os Estados não podem revogar, total ou parcialmente, benefícios e isenções de ICMS concedidos por meio de convênios sem observar as exigências constitucionais e as regras previstas em lei complementar. A decisão foi tomada pelo Plenário em 24 de setembro de 2026, no julgamento conjunto das Ações Diretas de Inconstitucionalidade (ADIs) 7.822, 7.830, 7.844 e 7.848, sob relatoria da ministra Cármen Lúcia.</description>
+<pubDate>Tue, 29 Sep 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">e092e8be612b7bcfd5e2f833b291045fd0bed8906facd32b6a267e358d4c1909</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>Empresas terão certidão única para comprovar regularidade fiscal em São Paulo</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/empresas-terao-certidao-unica-para-comprovar-regularidade-fiscal-em-sao-paulo</link>
+<description>O Estado de São Paulo regulamentou a emissão da Certidão Única de Débitos, documento que passará a concentrar a comprovação de regularidade relativa aos créditos tributários estaduais e aos créditos inscritos na dívida ativa. A medida foi estabelecida pela Resolução Conjunta SFP-PGE nº 1/2026, publicada em 14 de setembro, e reúne em uma mesma certidão informações administradas pela Secretaria da Fazenda e Planejamento, a SEFAZ, e pela Procuradoria Geral do Estado, a PGE.</description>
+<pubDate>Tue, 29 Sep 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">56dc84534aba2f4ca81fa6f52951948d8bef8a43210614a9f1539346c6517c14</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>Câmara Superior do CARF cancela Súmula 147 sobre aplicação simultânea de multas</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/camara-superior-do-carf-cancela-sumula-147-sobre-aplicacao-simultanea-de-multas</link>
+<description>A 2ª Turma da Câmara Superior de Recursos Fiscais do Conselho Administrativo de Recursos Fiscais aprovou, por unanimidade, em sessão realizada em 21 de setembro de 2026, o cancelamento da Súmula CARF nº 147. Durante a votação, foi mencionado o posicionamento adotado pelo Superior Tribunal de Justiça sobre a aplicação simultânea de multas previstas no artigo 44 da Lei nº 9.430/1996, além do Parecer SEI nº 1.535/2026/MF, da Procuradoria-Geral da Fazenda Nacional. A decisão de cancelamento ainda será encaminhada para publicação.</description>
+<pubDate>Tue, 29 Sep 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">6505f53958ba0638f76bc16f05d9c5191e946635c573320635486c463b0507c6</guid>
 <category>Rota da Jurisprudência</category>
 </item>
 <item>
 <title>STF valida limitação mensal para compensação de créditos tributários judiciais</title>
 <link>https://rotadajurisprudencia.com.br/2026/09/stf-valida-limitacao-mensal-para-compensacao-de-creditos-tributarios-judiciais</link>
 <description>O Supremo Tribunal Federal (STF) decidiu, por unanimidade de votos, em julgamento favorável ao fisco, a constitucionalidade das restrições impostas à compensação de créditos tributários decorrentes de decisões judiciais transitadas em julgado. A análise ocorreu no âmbito da Ação Direta de Inconstitucionalidade 7.587, em conjunto com a ADI 7.609, nas quais o colegiado acompanhou integralmente o voto do relator, ministro Cristiano Zanin. O julgamento validou as alterações promovidas na Lei 9.430 de 1996, especificamente pela conversão da Medida Provisória 1.202 de 2023 na Lei 14.873 de 2024, que</description>
-<pubDate>Mon, 28 Sep 2026 18:20:00 +0000</pubDate>
+<pubDate>Tue, 29 Sep 2026 02:59:59 +0000</pubDate>
 <guid isPermaLink="false">25d4cf3f965d07e8bc995a7e4e1b5a49ef71893be86e6217890d190fff9b4e96</guid>
 <category>Rota da Jurisprudência</category>
 </item>
 <item>
-<title>Receita divulga balanço de solicitações ao Simples Nacional e ao regime regular do IBS/CBS e esclarece prazo para MEIs</title>
-<link>https://rotadajurisprudencia.com.br/2026/09/receita-divulga-balanco-de-solicitacoes-ao-simples-nacional-e-ao-regime-regular-do-ibs-cbs-e-esclarece-prazo-para-meis</link>
-<description>A Receita Federal, por meio de seus canais oficiais de comunicação, divulgou, na sexta-feira (25/9), duas informações importantes para os contribuintes no contexto da reforma tributária. A primeira apresenta um novo balanço das solicitações de opção pelo Simples Nacional e pelo regime regular do Imposto sobre Bens e Serviços (IBS) e da Contribuição sobre Bens e Serviços (CBS). A segunda esclarece que o prazo para solicitar o enquadramento no Sistema de Recolhimento em Valores Fixos Mensais dos Tributos abrangidos pelo Simples Nacional (Simei), destinado aos microempreendedores individuais (MEI</description>
-<pubDate>Mon, 28 Sep 2026 17:23:00 +0000</pubDate>
-<guid isPermaLink="false">c4b2e7f93993d2933a97be0b6ef541df51b4f3bee5f130f74e1bf12d0d1c26ec</guid>
+<title>STF suspende adicional de ICMS para fundo de combate à pobreza em Mato Grosso</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/stf-suspende-adicional-de-icms-para-fundo-de-combate-a-pobreza-em-mato-grosso</link>
+<description>O Plenário do Supremo Tribunal Federal decidiu, de forma unânime, julgar parcialmente favorável a controvérsia jurídica apresentada na Ação Direta de Inconstitucionalidade 7.815, que questionava a incidência de adicional de alíquota de ICMS sobre serviços de telecomunicações no Estado de Mato Grosso. O colegiado converteu o julgamento da medida cautelar em definitivo de mérito para reconhecer a constitucionalidade formal das normas estaduais em face do momento em que foram editadas, porém determinou a suspensão da eficácia da cobrança de dois pontos percentuais destinados ao Fundo Estadual de </description>
+<pubDate>Tue, 29 Sep 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">b52331e84e2dd54fc1f7c831ff6a4bc4f4369c5a3b31f077104aebed8e55f543</guid>
 <category>Rota da Jurisprudência</category>
 </item>
 <item>
-<title>Opção pelo Simei continua em janeiro, reforça Receita Federal</title>
-<link>https://www.reformatributaria.com/reforma-tributaria-brasil/opcao-pelo-simei-continua-em-janeiro-reforca-receita-federal</link>
-<description>Mudança de prazo para setembro vale apenas para o Simples Nacional; no caso do MEI, enquadramento para 2027 deve ser feito no início do ano</description>
-<pubDate>Mon, 28 Sep 2026 15:04:32 +0000</pubDate>
-<guid isPermaLink="false">11e16475e6e1181102af0869aa122e8df7e69f7a609277d3510c7d93cc130fb7</guid>
-<category>Portal da Reforma Tributária</category>
-</item>
-<item>
-<title>Receita Federal e CFC concluem curso sobre reforma tributária com mais de 200 mil inscritos</title>
-<link>https://www.reformatributaria.com/iva/receita-federal-e-cfc-concluem-curso-sobre-reforma-tributaria-com-mais-de-200-mil-inscritos</link>
-<description>Formação composta por 18 módulos registrou mais de 1 milhão de acessos aos conteúdos digitais</description>
-<pubDate>Mon, 28 Sep 2026 14:45:47 +0000</pubDate>
-<guid isPermaLink="false">9b7eb17a3a2a69b9d26dc41a822b1694bcdf6990153f24c6acbe288ec1439356</guid>
-<category>Portal da Reforma Tributária</category>
-</item>
-<item>
-<title>TCU julga cálculo para compensar perdas de estados e prefeituras em 2027 com substituição do IPI pelo IS</title>
-<link>https://www.reformatributaria.com/impostoseletivo/tcu-julga-calculo-para-compensar-perdas-de-estados-e-prefeituras-em-2027-com-substituicao-do-ipi-pelo-is</link>
-<description>Processo sob relatoria do ministro Jorge Oliveira trata da metodologia do valor de referência para as transferências constitucionais</description>
-<pubDate>Mon, 28 Sep 2026 14:16:14 +0000</pubDate>
-<guid isPermaLink="false">0108758b1f47a8cd59346ce7c105c303109d97f22bde9b3640a2f517fc0defae</guid>
-<category>Portal da Reforma Tributária</category>
-</item>
-<item>
-<title>Antônio Roberto Sampaio Dória: entre a Constituição, o federalismo e os limites da elisão fiscal</title>
-<link>https://rotadajurisprudencia.com.br/2026/09/antonio-roberto-sampaio-doria-entre-a-constituicao-o-federalismo-e-os-limites-da-elisao-fiscal</link>
-<description>Ao longo desta série dedicada aos grandes nomes do Direito Tributário brasileiro, procuramos mostrar como diferentes juristas contribuíram, cada qual a seu modo, para a formação e o desenvolvimento da disciplina no país. Se Rubens Gomes de Sousa pode ser visto como um dos grandes arquitetos de sua sistematização, Ruy Barbosa Nogueira teve papel decisivo em sua institucionalização acadêmica. Gerson Augusto da Silva, por sua vez, deixou contribuição particularmente relevante para a formação e organização da administração tributária, enquanto Gilberto de Ulhôa Canto se destacou pela construção da</description>
-<pubDate>Mon, 28 Sep 2026 13:49:00 +0000</pubDate>
-<guid isPermaLink="false">6473ca3e5c84cef49017c1293f5e421b63e05081876996d7ac6365026c194afa</guid>
+<title>STF rejeita reclamação e mantém bloqueio de valores em execução fiscal envolvendo o FUNRURAL</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/stf-rejeita-reclamacao-e-mantem-bloqueio-de-valores-em-execucao-fiscal-envolvendo-o-funrural</link>
+<description>O Supremo Tribunal Federal, em decisão monocrática proferida pela Ministra Relatora, negou seguimento à Reclamação 100432, mantendo, assim, a decisão do Tribunal Regional Federal da Quarta Região que havia indeferido o pedido de liberação de ativos financeiros em uma execução fiscal. A controvérsia central da reclamação residia na alegação de que a decisão do tribunal inferior teria desrespeitado uma ordem de suspensão nacional de processos, emanada pelo próprio STF na Ação Direta de Inconstitucionalidade (ADI) 4395, que tratava da constitucionalidade da sub-rogação do FUNRURAL.</description>
+<pubDate>Tue, 29 Sep 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">4daa89423353813e1880055474091935a8740229729f1e85765b10053a430de9</guid>
 <category>Rota da Jurisprudência</category>
 </item>
 <item>
-<title>Receita Federal participa da Operação Hermanos</title>
-<link>https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-participa-da-operacao-hermanos</link>
-<description>Operação busca aprofundar a investigação sobre um suposto esquema de lavagem de capitais que teria utilizado estruturas empresariais formalmente constituídas para ocultar, movimentar e reinserir recursos de possível origem ilícita no sistema financeiro nacional.</description>
-<pubDate>Mon, 28 Sep 2026 11:38:00 +0000</pubDate>
-<guid isPermaLink="false">9fb9d472ea63a0b1cbf5978341c7dfc3fe5ababfe49d20c67f2aaebe3abdb8d9</guid>
-<category>Receita Federal</category>
+<title>STF nega recurso de produtora de biodiesel e mantém incidência de PIS e Cofins por impossibilidade de extensão judicial de benefício fiscal</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/stf-nega-recurso-de-produtora-de-biodiesel-e-mantem-incidencia-de-pis-e-cofins-por-impossibilidade-de-extensao-judicial-de-beneficio-fiscal</link>
+<description>O Supremo Tribunal Federal, em decisão monocrática, negou seguimento ao Recurso Extraordinário (RE) nº 1.605.612/RS, mantendo a cobrança de PIS e COFINS sobre as receitas de venda de biodiesel, em entendimento desfavorável a uma produtora do combustível. A decisão, proferida pelo Ministro relator, reforça a jurisprudência da Corte sobre a impossibilidade de o Poder Judiciário conceder benefícios fiscais não expressamente previstos em lei, mesmo sob a alegação de isonomia tributária.</description>
+<pubDate>Tue, 29 Sep 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">94eb075079aa8f603edef42e61435dbd02dbfde2e2ce147f8b04855862f39839</guid>
+<category>Rota da Jurisprudência</category>
 </item>
 <item>
-<title>George Westerman, do MIT, trará em palestra análise sobre como transformar experimentos com IA em valor real de negócios</title>
-<link>https://www.reformatributaria.com/tecnologia/george-westerman-do-mit-trara-ao-universo-totvs-2026-analise-sobre-como-transformar-experimentos-com-ia-em-valor-real-de-negocios</link>
-<description>Um dos maiores especialistas globais da MIT Sloan School of Management apresentará caminhos práticos para lideranças e C-levels</description>
-<pubDate>Mon, 28 Sep 2026 11:00:00 +0000</pubDate>
-<guid isPermaLink="false">134e08a48fbcead7fcce05a3567714bd3166339db01bfeb4e559747d3cbb4ee6</guid>
-<category>Portal da Reforma Tributária</category>
+<title>STF invalida redução de alíquota de ICMS concedida sem convênio do Confaz no Piauí</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/stf-invalida-reducao-de-aliquota-de-icms-concedida-sem-convenio-do-confaz-no-piaui</link>
+<description>O Plenário do Supremo Tribunal Federal julgou procedente o pedido formulado na Ação Direta de Inconstitucionalidade 7373 para declarar a invalidade de normas do Estado do Piauí que reduziam a carga tributária sobre operações com tipos específicos de bebidas. Por unanimidade de votos quanto ao mérito, os ministros reconheceram que a instituição de alíquota menor de ICMS para cervejas que contenham suco de caju em sua composição viola preceitos fundamentais da Constituição Federal de 1988. A decisão atingiu diretamente o artigo 2º da Lei Complementar estadual 269 de 2022, que alterava a Lei 4.25</description>
+<pubDate>Tue, 29 Sep 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">e4f09d70b38625a3c36c571d1c4dfd89ccf4bb1edf112ccbefef0095eb796d65</guid>
+<category>Rota da Jurisprudência</category>
 </item>
 <item>
-<title>Streaming negocia com governo envio de dados na reforma</title>
-<link>https://www.reformatributaria.com/tecnologia/streaming-negocia-com-receita-envio-de-dados-na-reforma</link>
-<description>Empresas de streaming e outras plataformas digitais estão em negociação com a Receita Federal para ajustar pontos operacionais da reforma tributária</description>
-<pubDate>Mon, 28 Sep 2026 09:00:00 +0000</pubDate>
-<guid isPermaLink="false">6de433392f421ef1845fa378d452e4c12808f4118eed4a997837b4722a126815</guid>
-<category>Portal da Reforma Tributária</category>
+<title>STJ nega seguimento a recurso de empresa contra autuação de ICMS envolvendo notas fiscais inidôneas</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/stj-nega-seguimento-a-recurso-de-empresa-contra-autuacao-de-icms-envolvendo-notas-fiscais-inidoneas</link>
+<description>O Superior Tribunal de Justiça (STJ), por meio de decisão monocrática, negou provimento a recurso especial e manteve a validade de uma autuação fiscal de ICMS decorrente de operações com notas fiscais declaradas inidôneas. O julgamento, registrado no Recurso Especial nº 2271947 – SP, analisou a responsabilidade de uma empresa vendedora em face da nulidade da inscrição estadual de sua cliente, determinada pela fiscalização sob o argumento de simulação de estabelecimento. A decisão confirma o entendimento do tribunal de origem, que considerou insuficientes as provas de boa-fé e de efetividade da</description>
+<pubDate>Tue, 29 Sep 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">4efc9cf61031ab2efccb5f7f31e5b163e60b27a89299d22ab36b868a71444802</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>STJ distingue tratamento tributário de incentivos de ICMS e condiciona exclusão de isenções e reduções ao cumprimento de requisitos legais</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/stj-distingue-tratamento-tributario-de-incentivos-de-icms-e-condiciona-exclusao-de-isencoes-e-reducoes-ao-cumprimento-de-requisitos-legais</link>
+<description>O Superior Tribunal de Justiça proferiu decisão que estabeleceu a manutenção de critérios distintos para a exclusão de incentivos fiscais de ICMS da base de cálculo do Imposto de Renda da Pessoa Jurídica e da Contribuição Social sobre o Lucro Líquido, conforme os autos do Recurso Especial 2.284.436 – SC. O entendimento ratificou o resultado material obtido em instância inferior, garantindo que o crédito presumido de ICMS seja excluído de forma incondicionada das bases de cálculo referidas, enquanto outros benefícios fiscais, tais como isenções e reduções de alíquota, permanecem condicionados a</description>
+<pubDate>Tue, 29 Sep 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">a71b56245b9553be14fc49c5faf34d6efa24c7b1d98f76389ddd0af62970153a</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>STJ decide que exclusão de multas por lei superveniente não afasta condenação da Fazenda Pública em honorários advocatícios</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/stj-decide-que-exclusao-de-multas-por-lei-superveniente-nao-afasta-condenacao-da-fazenda-publica-em-honorarios-advocaticios</link>
+<description>O Superior Tribunal de Justiça estabeleceu o entendimento favorável ao contribuinte no âmbito do Recurso Especial número 2269681 – GO, ao reconhecer o direito à fixação de honorários advocatícios em casos de acolhimento parcial de exceção de pré-executividade. A controvérsia jurídica girava em torno da possibilidade de condenação da Fazenda Pública ao pagamento da verba sucumbencial quando a redução do débito tributário decorre de legislação superveniente mais benéfica, situação que havia sido negada em instâncias inferiores sob o argumento da teoria da neutralização da sucumbência. O relator </description>
+<pubDate>Tue, 29 Sep 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">15244f9c7aa1b1a19000c1e2fe1ae3ecb22446c4831fb3a7b2761b3b06426c02</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>STJ rejeita recurso sobre imunidade de ISS para caixa de assistência de servidores do Rio de Janeiro</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/stj-rejeita-recurso-sobre-imunidade-de-iss-para-caixa-de-assistencia-de-servidores-do-rio-de-janeiro</link>
+<description>A Segunda Turma do Superior Tribunal de Justiça decidiu, de forma unânime, manter o reconhecimento de imunidade tributária relativa ao Imposto sobre Serviços de Qualquer Natureza para uma entidade de assistência social fechada, vinculada a empregados de uma empresa estatal. No julgamento do Agravo em Recurso Especial 2.634.268, o colegiado negou provimento ao recurso interposto pela municipalidade, que buscava a reforma de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro. A controvérsia central girava em torno do preenchimento dos requisitos previstos no artigo 150, incis</description>
+<pubDate>Tue, 29 Sep 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">9adf04773edb08226fb62806c27163d2d0eabd86cc926bc107d9fd660398c2e7</guid>
+<category>Rota da Jurisprudência</category>
 </item>
 </channel>
 </rss>
