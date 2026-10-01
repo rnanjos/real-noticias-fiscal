@@ -5,132 +5,84 @@
 <link>https://rnanjos.github.io/real-noticias-fiscal/rss.xml</link>
 <description>Notícias fiscais e tributárias consolidadas das últimas 24 horas.</description>
 <language>pt-BR</language>
-<lastBuildDate>Wed, 30 Sep 2026 19:53:59 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 20:12:46 +0000</lastBuildDate>
 <item>
-<title>65,4% das indústrias mineiras já concluíram adequações ou estão em estágio avançado na reforma, aponta levantamento da FIEMG</title>
-<link>https://www.reformatributaria.com/iva/654-das-industrias-mineiras-ja-concluiram-adequacoes-ou-estao-em-estagio-avancado-na-reforma-aponta-levantamento-da-fiemg</link>
-<description>Levantamento da FIEMG mostra que 93,6% do setor já iniciou a preparação, enquanto apenas 6,4% das empresas ainda não começaram o processo</description>
-<pubDate>Wed, 30 Sep 2026 19:25:26 +0000</pubDate>
-<guid isPermaLink="false">8120d834972cfa6e04689919af3d3140d10cdfef771f237404990a60a5694912</guid>
-<category>Portal da Reforma Tributária</category>
-</item>
-<item>
-<title>TOTVS libera desligamento automático de Pis e Cofins no Protheus</title>
-<link>https://www.reformatributaria.com/tecnologia/totvs-libera-desligamento-automatico-de-pis-e-cofins-no-protheus</link>
-<description>Funcionalidade impede cálculo e gravação dos tributos em operações com data a partir de 1º de janeiro de 2027; publicação ocorrerá até 30 de novembro</description>
-<pubDate>Wed, 30 Sep 2026 19:23:24 +0000</pubDate>
-<guid isPermaLink="false">8379310052564416bad3afedabcb344d5653d4837fa701f91e31fc960ef17f4b</guid>
-<category>Portal da Reforma Tributária</category>
-</item>
-<item>
-<title>Voto de qualidade no CARF valida cobrança de contribuições sobre contratos de médicos via PJ</title>
-<link>https://rotadajurisprudencia.com.br/2026/09/voto-de-qualidade-no-carf-valida-cobranca-de-contribuicoes-sobre-contratos-de-medicos-via-pj</link>
-<description>A Segunda Turma Ordinária da Terceira Câmara da Segunda Seção do Conselho Administrativo de Recursos Fiscais (CARF) negou provimento ao recurso de um hospital, mantendo a cobrança de contribuições sociais previdenciárias incidentes sobre pagamentos realizados a profissionais de saúde contratados por meio de pessoas jurídicas interpostas. A decisão, proferida no âmbito do processo n. 14041.720088/2016-83 por voto de qualidade, validou o entendimento da fiscalização de que os contratos firmados com sociedades de médicos configuraram a prática de “pejotização” com o intuito de dissimular vínculos</description>
-<pubDate>Wed, 30 Sep 2026 18:54:00 +0000</pubDate>
-<guid isPermaLink="false">61e8b7d5c52673a8df77bdfa8ab87f5238f2963a2d5fd641c3b48af8b5e03434</guid>
+<title>STJ condiciona exclusão de benefícios “negativos” de ICMS da base do IRPJ e da CSLL a requisitos legais</title>
+<link>https://rotadajurisprudencia.com.br/2026/10/stj-condiciona-exclusao-de-beneficios-negativos-de-icms-da-base-do-irpj-e-da-csll-a-requisitos-legais</link>
+<description>O Superior Tribunal de Justiça negou provimento ao Recurso Especial nº 2.273.350 – RS, mantendo a incidência do Imposto de Renda Pessoa Jurídica e da Contribuição Social sobre o Lucro Líquido sobre benefícios fiscais de ICMS, ressalvados os créditos presumidos, em conformidade com a nova sistemática introduzida pela Lei nº 14.789/2023. A decisão monocrática acompanhou o entendimento do tribunal de origem, que estabeleceu a impossibilidade de exclusão desses incentivos das bases de cálculo dos tributos federais a partir de 1º de janeiro de 2024. O relator fundamentou a posição na revogação do a</description>
+<pubDate>Thu, 01 Oct 2026 19:20:00 +0000</pubDate>
+<guid isPermaLink="false">2d86a57bab7db482659fc58daf41f72e924f988ed186699e522c5044fefe7c18</guid>
 <category>Rota da Jurisprudência</category>
 </item>
 <item>
-<title>STJ suspende atos expropriatórios em execução fiscal por falta de intimação pessoal do devedor</title>
-<link>https://rotadajurisprudencia.com.br/2026/09/stj-suspende-atos-expropriatorios-em-execucao-fiscal-por-falta-de-intimacao-pessoal-do-devedor</link>
-<description>O Superior Tribunal de Justiça, por meio de decisão monocrática proferida pelo ministro relator Herman Benjamin, concedeu tutela provisória para suspender atos expropriatórios em sede de execução fiscal, resultando em decisão parcialmente favorável ao contribuinte. A medida, registrada no Recurso Especial número 2.293.424 – GO, determinou a suspensão de hasta pública de um imóvel rural após a constatação de potencial nulidade na intimação da penhora. A controvérsia central reside na interpretação do artigo 12, parágrafo 3º, da Lei 6.830 de 1980, a Lei de Execução Fiscal, que disciplina o rito </description>
-<pubDate>Wed, 30 Sep 2026 18:43:00 +0000</pubDate>
-<guid isPermaLink="false">e03018de05536196915fd7013d51755936cf6394bb43dcfcab8e7a2e76351c51</guid>
+<title>TRF-3 afasta incidência de IRPJ e CSLL sobre créditos presumidos de ICMS após Lei 14.789/2023</title>
+<link>https://rotadajurisprudencia.com.br/2026/10/trf-3-afasta-incidencia-de-irpj-e-csll-sobre-creditos-presumidos-de-icms-apos-lei-14-789-2023</link>
+<description>A Quarta Turma do Tribunal Regional Federal da 3ª Região proferiu julgamento favorável ao contribuinte nos autos da apelação e remessa necessária sob o número 5004207-13.2024.4.03.6105, ao afastar a incidência do Imposto sobre a Renda da Pessoa Jurídica (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL) sobre os valores auferidos a título de créditos presumidos de Imposto sobre Circulação de Mercadorias e Serviços (ICMS). O colegiado reconheceu a manutenção da não incidência tributária mesmo após a entrada em vigor da Lei 14.789/2023, assegurando adicionalmente o direito à compensaçã</description>
+<pubDate>Thu, 01 Oct 2026 18:53:00 +0000</pubDate>
+<guid isPermaLink="false">4546c8db39118ae7d8e55f3f51a91c4e3a617b2affa8db887db001882438d25b</guid>
 <category>Rota da Jurisprudência</category>
 </item>
 <item>
-<title>Marcelo Henrique Santos Justo é o novo head de tax na ROIT</title>
-<link>https://www.reformatributaria.com/como-anda-o-mercado/marcelo-henrique-santos-justo-e-o-novo-head-de-tax-na-roit</link>
-<description>O profissional chega para atuar com foco em Discovery, ferramenta da ROIT que reapura 60 meses de dados fiscais com IA</description>
-<pubDate>Wed, 30 Sep 2026 18:40:49 +0000</pubDate>
-<guid isPermaLink="false">0ebfa8016f489228d7968e92584c27e7a1d4a03946d364931e9ce175aad3439b</guid>
-<category>Portal da Reforma Tributária</category>
+<title>TRF-4 afasta PIS e Cofins sobre descontos e bonificações em mercadorias</title>
+<link>https://rotadajurisprudencia.com.br/2026/10/trf-4-afasta-pis-e-cofins-sobre-descontos-e-bonificacoes-em-mercadorias</link>
+<description>A Segunda Turma do Tribunal Regional Federal da 4ª Região proferiu decisão unânime ao reconhecer o direito de uma empresa do setor varejista de não recolher as contribuições ao PIS e à COFINS sobre os descontos e as mercadorias bonificadas recebidas de seus fornecedores. O julgamento ocorreu no âmbito da Apelação Cível nº 5000913-68.2026.4.04.7102/RS, reformando sentença anterior que havia denegado a segurança. O colegiado fundamentou que tais abatimentos não possuem natureza jurídica de receita, mas sim de redutores de custo de aquisição, o que afasta a incidência das referidas contribuições </description>
+<pubDate>Thu, 01 Oct 2026 18:35:00 +0000</pubDate>
+<guid isPermaLink="false">7ee3f203a23449d17eb42e2ec142e6b98a9f94cf5432076de4d6bb813a51ea54</guid>
+<category>Rota da Jurisprudência</category>
 </item>
 <item>
-<title>A proibição de aumento da carga tributária na reforma tributária e a importância de cooperação entre os entes federados</title>
-<link>https://www.reformatributaria.com/opiniao/a-proibicao-de-aumento-da-carga-tributaria-na-reforma-tributaria-e-a-importancia-de-cooperacao-entre-os-entes-federados</link>
-<description>Eurico Santi defende que a reforma tributária brasileira é um feito histórico</description>
-<pubDate>Wed, 30 Sep 2026 18:18:01 +0000</pubDate>
-<guid isPermaLink="false">a00766754e6900b851922cf37e4383ecb55984bdcea6cec9e32ecfb81a01c248</guid>
-<category>Portal da Reforma Tributária</category>
+<title>ADI 5161: STF define requisitos para multa a empresa que distribui lucros com débito tributário</title>
+<link>https://rotadajurisprudencia.com.br/2026/10/adi-5161-stf-define-requisitos-para-multa-a-empresa-que-distribui-lucros-com-debito-tributario</link>
+<description>O Supremo Tribunal Federal concluiu nesta quarta-feira, 30 de setembro de 2026, no Plenário da Corte, o julgamento da ADI 5161 e decidiu, por maioria, que é constitucional a multa aplicada pela distribuição de bonificações ou de participação nos lucros por pessoas jurídicas com débitos tributários perante a União, desde que estejam presentes três condições cumulativas. O crédito tributário deve estar definitivamente constituído e inscrito em dívida ativa da União, sua exigibilidade não pode estar suspensa e o débito não pode estar garantido. Prevaleceu o voto do ministro Cristiano Zanin, desig</description>
+<pubDate>Thu, 01 Oct 2026 15:05:00 +0000</pubDate>
+<guid isPermaLink="false">883951d488bf4ba45ace930810093b489c5747af2008a5c22b6412abde745385</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>LC 236/2026 e prescrição da compensação de créditos tributários reconhecidos judicialmente: o veto ao § 1º do art. 168 do CTN revelou uma lacuna legislativa?</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/lc-236-2026-e-prescricao-da-compensacao-de-creditos-tributarios-reconhecidos-judicialmente-o-veto-ao-%c2%a7-1o-do-art-168-do-ctn-revelou-uma-lacuna-legislativa</link>
+<description>Recentemente, o Congresso aprovou e a Presidência sancionou a LC nº 236/2026, que promoveu alterações relevantes no CTN, a fim de modernizar os processos tributários judicial e administrativo, estabelecer limites ao regime sancionatório e atualizar regras relacionadas à fiscalização, à cobrança e aos mecanismos de solução de controvérsias.</description>
+<pubDate>Thu, 01 Oct 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">f69c326cc09999ccd621b39d9024dcce159122dd3c2fb85d16c4eaa06976e4f6</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>Antônio Roberto Sampaio Dória: entre a Constituição, o federalismo e os limites da elisão fiscal</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/antonio-roberto-sampaio-doria-entre-a-constituicao-o-federalismo-e-os-limites-da-elisao-fiscal</link>
+<description>Ao longo desta série dedicada aos grandes nomes do Direito Tributário brasileiro, procuramos mostrar como diferentes juristas contribuíram, cada qual a seu modo, para a formação e o desenvolvimento da disciplina no país. Se Rubens Gomes de Sousa pode ser visto como um dos grandes arquitetos de sua sistematização, Ruy Barbosa Nogueira teve papel decisivo em sua institucionalização acadêmica. Gerson Augusto da Silva, por sua vez, deixou contribuição particularmente relevante para a formação e organização da administração tributária, enquanto Gilberto de Ulhôa Canto se destacou pela construção da</description>
+<pubDate>Thu, 01 Oct 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">6473ca3e5c84cef49017c1293f5e421b63e05081876996d7ac6365026c194afa</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>A responsabilidade gerencial sobre os Créditos acumulados de ICMS: a inércia tem data, índice e preço</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/a-responsabilidade-gerencial-sobre-os-creditos-acumulados-de-icms-a-inercia-tem-data-indice-e-preco</link>
+<description>Desde 14 de janeiro de 2026, quando foi publicada a Lei Complementar 227, o saldo credor de ICMS deixou de ser um ativo de destino incerto e passou a ter regime jurídico próprio. Os artigos 132 a 141 deram prazo, condição e consequência ao desenho que o art. 134 do ADCT já havia traçado: quando se pede a homologação, em quanto tempo o Estado deve responder e a partir de quando o silêncio homologa, como o crédito chega ao Comitê Gestor, em que condições pode ser transferido, de que modo é ressarcido em dinheiro e de que regularidade depende a monetização. O efeito prático dessa disciplina tem s</description>
+<pubDate>Thu, 01 Oct 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">74987237ae50e1ad2119b3889c500b039c780e3e2bd5b6aa0f3f677b595dd0c8</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>Sentença no âmbito do TRF-3 coloca a retenção de 10% do IRPFM sobre dividendos em xeque</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/sentenca-no-ambito-do-trf-3-coloca-a-retencao-de-10-do-irpfm-sobre-dividendos-em-xeque</link>
+<description>Em 10 de setembro de 2026 a 9ª Vara Cível Federal de São Paulo (Juíza Federal Cristiane Farias Rodrigues dos Santos) concedeu segurança no Mandado de Segurança nº 5008153-37.2026.4.03.6100 interposto por Jardim Elétrico Produções Ltda contra ato do Delegado da DERAT/SPO onde figurava União Federal interessada e objeto é o art. 6º-A da Lei nº 9.250/1995 incluído pela Lei nº 15.270/2025 que prevê retenção de 10% do Imposto de renda sobre a totalidade dos lucros e dividendos pagos à pessoa física quando valor mensal de uma mesma empresa pago a um mesmo sócio for superior a R$ 50 mil.</description>
+<pubDate>Thu, 01 Oct 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">fed07b5351bcfcb1c8245183cef953873b394a8e0c7fa0b06de13dcec3f9b5ee</guid>
+<category>Rota da Jurisprudência</category>
 </item>
 <item>
 <title>STJ pauta para outubro cinco temas sobre créditos de PIS/Cofins, stock options e outras questões tributárias</title>
 <link>https://rotadajurisprudencia.com.br/2026/09/stj-pauta-para-outubro-cinco-temas-sobre-creditos-de-pis-cofins-stock-options-e-outras-questoes-tributarias</link>
 <description>A Primeira Seção do Superior Tribunal de Justiça pautou para 14 de outubro o julgamento de cinco temas repetitivos com impacto em diferentes áreas do Direito Tributário. As controvérsias envolvem a cobrança de PIS-Importação e Cofins-Importação na Zona Franca de Manaus, créditos de PIS/Cofins sobre o ICMS das aquisições, contribuições incidentes sobre stock options, participação de terceiros destinatários de contribuições em ações tributárias e os coeficientes de IRPJ e CSLL aplicáveis a concessionárias de transmissão de energia elétrica.</description>
-<pubDate>Wed, 30 Sep 2026 17:24:00 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 02:59:59 +0000</pubDate>
 <guid isPermaLink="false">8125fd9dd0d3d54cbe986a12c58ca45fa7e24f3bb14f26b0cbc9e0d275d4e39b</guid>
 <category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>Governo trabalha para fechar pontos em aberto da reforma antes de 2027</title>
-<link>https://www.reformatributaria.com/reforma-tributaria-brasil/governo-fechar-regulamentacao-reforma-tributaria-antes-de-2027</link>
-<description>No Tax Day 2026, João Nobre, da Fazenda, disse que a nova regulamentação da reforma deve sair no próximo mês. EY, iFood e Loria apontam o que falta.</description>
-<pubDate>Wed, 30 Sep 2026 16:43:22 +0000</pubDate>
-<guid isPermaLink="false">31ab0d2d4c3f5589e97d1c617108d062fb78c78261006425e8c498c9cd990dc1</guid>
-<category>Portal da Reforma Tributária</category>
-</item>
-<item>
-<title>Portal da Reforma Tributária lança plataforma e aplicativo exclusivos</title>
-<link>https://www.reformatributaria.com/institucional-portal-reforma-tributaria/portal-da-reforma-tributaria-lanca-plataforma-e-aplicativo-exclusivos</link>
-<description>Portal dá um passo estratégico ao oferecer um ambiente dedicado para leitura, acompanhamento e aprofundamento dos conteúdos sobre a reforma tributária</description>
-<pubDate>Wed, 30 Sep 2026 16:03:11 +0000</pubDate>
-<guid isPermaLink="false">759291d22b62fbc3f3d408f5ab8c7092290959c71491e7211acf13aa5098b25a</guid>
-<category>Portal da Reforma Tributária</category>
-</item>
-<item>
-<title>Reforma tributária pode aumentar exportações em 17% em 15 anos, diz Alckmin</title>
-<link>https://www.reformatributaria.com/iva/reforma-tributaria-pode-aumentar-exportacoes-em-17-em-15-anos-diz-alckmin</link>
-<description>No Congresso Aço Brasil 2026, Geraldo Alckmin cita dados do Ipea e defende fim da tributação em cascata no IVA para impulsionar a indústria.</description>
-<pubDate>Wed, 30 Sep 2026 15:01:15 +0000</pubDate>
-<guid isPermaLink="false">f5723499903c33e81d622d878b479b0b1e69aecb5714559bf7a6670930ba187b</guid>
-<category>Portal da Reforma Tributária</category>
-</item>
-<item>
-<title>Destaque de IBS e CBS passa a ser obrigatório para NFCom, NFSe, DIR e eventos de tabela da DeRE nesta quinta (1º)</title>
-<link>https://www.reformatributaria.com/documentos-fiscais/destaque-de-ibs-e-cbs-passa-a-ser-obrigatorio-para-nfcom-nfse-dir-e-eventos-de-tabela-da-dere-nesta-quinta-1o</link>
-<description>Confira o cronograma completo da Receita Federal e do Comitê Gestor do IBS para a emissão dos documentos fiscais eletrônicos</description>
-<pubDate>Wed, 30 Sep 2026 14:35:55 +0000</pubDate>
-<guid isPermaLink="false">ca900e6f751831882e2d3f38ed27675f7d2e4e5ee52da9a4cbb62653357a8b3e</guid>
-<category>Portal da Reforma Tributária</category>
-</item>
-<item>
-<title>A prorrogação do Simples Nacional: tempo extra para planejamento</title>
-<link>https://www.reformatributaria.com/opiniao/a-prorrogacao-do-simples-nacional-tempo-extra-para-planejamento</link>
-<description>O maior risco é interpretar esse fôlego como licença para a passividade nos negócios</description>
-<pubDate>Wed, 30 Sep 2026 14:05:19 +0000</pubDate>
-<guid isPermaLink="false">6e92a55890c85bebdae75ccfa81b6edc000b2b2ef3432a6f58af5e1eecd717ac</guid>
-<category>Portal da Reforma Tributária</category>
-</item>
-<item>
-<title>Reforma Tributária muda a lógica das decisões fiscais no mercado digital</title>
-<link>https://www.reformatributaria.com/opiniao/reforma-tributaria-muda-a-logica-das-decisoes-fiscais-no-mercado-digital</link>
-<description>Para a Abradi, olhar para a própria carga já não será suficiente: será preciso entender créditos e impactos em toda a cadeia</description>
-<pubDate>Wed, 30 Sep 2026 13:49:48 +0000</pubDate>
-<guid isPermaLink="false">b98450f3b033e3961780bf84d8330895c8b4c2a8b806a75a39b827739397cd83</guid>
-<category>Portal da Reforma Tributária</category>
-</item>
-<item>
-<title>O contencioso tributário na LC 227/2026 e a LC 236/2026: desafios de harmonização, garantias do contribuinte e a arbitragem tributária</title>
-<link>https://rotadajurisprudencia.com.br/2026/09/o-contencioso-tributario-na-lc-227-2026-e-a-lc-236-2026-desafios-de-harmonizacao-garantias-do-contribuinte-e-a-arbitragem-tributaria</link>
-<description>1. Breves considerações A Lei Complementar nº 227/2026, que regulamenta a gestão e a administração do Imposto sobre Bens e Serviços (IBS) no âmbito da Reforma Tributária (EC nº 132/2023) e institui o Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS), redesenhou profundamente o Processo Administrativo Tributário (PAT), instituindo um novo paradigma. Prevê a […]</description>
-<pubDate>Wed, 30 Sep 2026 13:44:00 +0000</pubDate>
-<guid isPermaLink="false">620744064bd721076f931968d5efa7f9ef5ff6b909895b48014e52f9ba0bee2b</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>Simples puro ou híbrido: o que olhar antes de 20 de dezembro?</title>
-<link>https://www.reformatributaria.com/opiniao/simples-puro-ou-hibrido-o-que-olhar-antes-de-20-de-dezembro</link>
-<description>Felipe Crisanto e Lieda Amaral listam os cálculos que a empresa no Simples híbrido deve fazer antes de 20 de dezembro, prazo para voltar ao Simples puro.</description>
-<pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
-<guid isPermaLink="false">36a6a8f9dbc87ff4f3f238f50539d02f390e13d002603df2f436b700522a0402</guid>
-<category>Portal da Reforma Tributária</category>
 </item>
 <item>
 <title>Reforma tributária: novas regras ampliam prazos para opção e cancelamento dos regimes de IBS e CBS para empresas do Simples</title>
 <link>https://rotadajurisprudencia.com.br/2026/09/reforma-tributaria-novas-regras-ampliam-prazos-para-opcao-e-cancelamento-dos-regimes-de-ibs-e-cbs-para-empresas-do-simples</link>
 <description>O Comitê Gestor do Simples Nacional (CGSN) ampliou os prazos para que microempresas e empresas de pequeno porte solicitem o ingresso no Simples Nacional em 2027 e escolham o regime de apuração e recolhimento do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS). As alterações constam da Resolução CGSN nº 194, publicada no Diário Oficial da União em 28 de setembro, que modifica as regras anteriormente estabelecidas pela Resolução CGSN nº 186, de 9 de abril de 2026.</description>
-<pubDate>Wed, 30 Sep 2026 02:59:59 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 02:59:59 +0000</pubDate>
 <guid isPermaLink="false">4469db2932622bd4fbc441b56bda2a66192b5d47b266e3de2548ad845c97ca90</guid>
 <category>Rota da Jurisprudência</category>
 </item>
@@ -138,7 +90,7 @@
 <title>Receita divulga balanço de solicitações ao Simples Nacional e ao regime regular do IBS/CBS e esclarece prazo para MEIs</title>
 <link>https://rotadajurisprudencia.com.br/2026/09/receita-divulga-balanco-de-solicitacoes-ao-simples-nacional-e-ao-regime-regular-do-ibs-cbs-e-esclarece-prazo-para-meis</link>
 <description>A Receita Federal, por meio de seus canais oficiais de comunicação, divulgou, na sexta-feira (25/9), duas informações importantes para os contribuintes no contexto da reforma tributária. A primeira apresenta um novo balanço das solicitações de opção pelo Simples Nacional e pelo regime regular do Imposto sobre Bens e Serviços (IBS) e da Contribuição sobre Bens e Serviços (CBS). A segunda esclarece que o prazo para solicitar o enquadramento no Sistema de Recolhimento em Valores Fixos Mensais dos Tributos abrangidos pelo Simples Nacional (Simei), destinado aos microempreendedores individuais (MEI</description>
-<pubDate>Wed, 30 Sep 2026 02:59:59 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 02:59:59 +0000</pubDate>
 <guid isPermaLink="false">c4b2e7f93993d2933a97be0b6ef541df51b4f3bee5f130f74e1bf12d0d1c26ec</guid>
 <category>Rota da Jurisprudência</category>
 </item>
@@ -146,24 +98,24 @@
 <title>Fim de benefícios de ICMS por decisão unilateral de São Paulo é considerado inconstitucional pelo STF</title>
 <link>https://rotadajurisprudencia.com.br/2026/09/fim-de-beneficios-de-icms-por-decisao-unilateral-de-sao-paulo-e-considerado-inconstitucional-pelo-stf</link>
 <description>O Supremo Tribunal Federal (STF) decidiu, por maioria, que os Estados não podem revogar, total ou parcialmente, benefícios e isenções de ICMS concedidos por meio de convênios sem observar as exigências constitucionais e as regras previstas em lei complementar. A decisão foi tomada pelo Plenário em 24 de setembro de 2026, no julgamento conjunto das Ações Diretas de Inconstitucionalidade (ADIs) 7.822, 7.830, 7.844 e 7.848, sob relatoria da ministra Cármen Lúcia.</description>
-<pubDate>Wed, 30 Sep 2026 02:59:59 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 02:59:59 +0000</pubDate>
 <guid isPermaLink="false">e092e8be612b7bcfd5e2f833b291045fd0bed8906facd32b6a267e358d4c1909</guid>
 <category>Rota da Jurisprudência</category>
 </item>
 <item>
-<title>Empresas terão certidão única para comprovar regularidade fiscal em São Paulo</title>
-<link>https://rotadajurisprudencia.com.br/2026/09/empresas-terao-certidao-unica-para-comprovar-regularidade-fiscal-em-sao-paulo</link>
-<description>O Estado de São Paulo regulamentou a emissão da Certidão Única de Débitos, documento que passará a concentrar a comprovação de regularidade relativa aos créditos tributários estaduais e aos créditos inscritos na dívida ativa. A medida foi estabelecida pela Resolução Conjunta SFP-PGE nº 1/2026, publicada em 14 de setembro, e reúne em uma mesma certidão informações administradas pela Secretaria da Fazenda e Planejamento, a SEFAZ, e pela Procuradoria Geral do Estado, a PGE.</description>
-<pubDate>Wed, 30 Sep 2026 02:59:59 +0000</pubDate>
-<guid isPermaLink="false">56dc84534aba2f4ca81fa6f52951948d8bef8a43210614a9f1539346c6517c14</guid>
-<category>Rota da Jurisprudência</category>
+<title>Testes do split payment com prestadores de serviços de pagamento começam em 15 de outubro</title>
+<link>https://www.reformatributaria.com/tecnologia/testes-do-split-payment-com-prestadores-de-servicos-de-pagamento-comecam-em-15-de-outubro</link>
+<description>Primeira fase será realizada em ambiente controlado e não terá impacto em operações reais ou consumidores; PSPs interessados devem formalizar indicação até 2 de outubro</description>
+<pubDate>Wed, 30 Sep 2026 21:01:49 +0000</pubDate>
+<guid isPermaLink="false">a41bf30e509863095d441918b4e4e2823d44f331ff5ba751a6d987f1e6b81a44</guid>
+<category>Portal da Reforma Tributária</category>
 </item>
 <item>
-<title>Reforma tributária coloca TI no centro da adaptação inicial das empresas, diz CEO da Quality Tax</title>
-<link>https://www.reformatributaria.com/tax-capital/reforma-tributaria-coloca-ti-no-centro-da-adaptacao-inicial-das-empresas-diz-ceo-da-quality-tax</link>
-<description>Genildo Rosales diz que parametrização de sistemas, emissão de notas fiscais e leitura de notas técnicas fazem da tecnologia o “coração” da primeira fase da reforma</description>
-<pubDate>Tue, 29 Sep 2026 20:07:41 +0000</pubDate>
-<guid isPermaLink="false">144edf62ce270d2f25bf87312f85bf79b868179e55d2a9f2a0abb32913c5f798</guid>
+<title>CBS/IBS: Simples Nacional registra 817 mil solicitações pelo modelo híbrido, 11,6% do mercado</title>
+<link>https://www.reformatributaria.com/iva/cbs-ibs-simples-nacional-registra-817-mil-solicitacoes-pelo-modelo-hibrido-116-do-mercado</link>
+<description>Receita também registra 392 mil solicitações de opção pelo Simples Nacional</description>
+<pubDate>Wed, 30 Sep 2026 20:29:16 +0000</pubDate>
+<guid isPermaLink="false">6794e177184beec01bdfd6e9a584a73dfedce105bc631c7f583f5b6536a224a2</guid>
 <category>Portal da Reforma Tributária</category>
 </item>
 </channel>
