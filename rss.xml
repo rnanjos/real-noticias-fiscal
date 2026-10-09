@@ -5,77 +5,109 @@
 <link>https://rnanjos.github.io/real-noticias-fiscal/rss.xml</link>
 <description>Notícias fiscais e tributárias consolidadas das últimas 24 horas.</description>
 <language>pt-BR</language>
-<lastBuildDate>Thu, 08 Oct 2026 20:34:23 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 20:02:07 +0000</lastBuildDate>
 <item>
-<title>STJ afasta isenção prevista na Lei 8.668/1993 para ganhos de fundos imobiliários com alienação de cotas de outros fundos</title>
-<link>https://rotadajurisprudencia.com.br/2026/10/stj-afasta-isencao-prevista-na-lei-8-668-1993-para-ganhos-de-fundos-imobiliarios-com-alienacao-de-cotas-de-outros-fundos</link>
-<description>A Primeira Turma do Superior Tribunal de Justiça (STJ) definiu, por maioria de votos, um resultado favorável ao fisco no julgamento do Recurso Especial nº 2.177.594, estabelecendo a incidência do Imposto de Renda sobre os ganhos de capital auferidos por um fundo de investimento imobiliário na alienação de cotas de outros fundos da mesma espécie. A controvérsia jurídica centrou-se na aplicação do regime de isenção previsto na Lei nº 8.668/1993 para as estruturas conhecidas como Fund of Funds (FoF), em que um fundo de investimento atua como investidor em outros veículos congêneres. O colegiado a</description>
-<pubDate>Thu, 08 Oct 2026 19:28:00 +0000</pubDate>
-<guid isPermaLink="false">133c413d988c3575f154f30f575e99cdb40e46df6689b0e18aaebbd7942eb40c</guid>
+<title>Sefaz-SP afasta uso de Carta de Correção para regularizar débitos de ICMS decorrentes de cassação de liminar</title>
+<link>https://rotadajurisprudencia.com.br/2026/10/sefaz-sp-afasta-uso-de-carta-de-correcao-para-regularizar-debitos-de-icms-decorrentes-de-cassacao-de-liminar</link>
+<description>A Secretaria da Fazenda e Planejamento de São Paulo proferiu entendimento na Resposta à Consulta Tributária nº 40105/2026, estabelecendo critérios rigorosos para a regularização de débitos de ICMS decorrentes da reversão de decisões judiciais liminares. O órgão consultivo esclareceu que, diante da cassação de medida judicial que autorizava a escrituração de créditos de ICMS sobre estoque em razão da exclusão de mercadorias do regime de substituição tributária, o contribuinte deve proceder à reapuracao do imposto e ao recolhimento das diferenças apuradas com os devidos acréscimos legais. A deci</description>
+<pubDate>Fri, 09 Oct 2026 18:14:00 +0000</pubDate>
+<guid isPermaLink="false">bd0b64ad0f68329682ca510a9fcc7520e76d30ad6fa8a8031019551923295b1a</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>Sefaz-SP afasta dispensa de Nota Fiscal de entrada em operações com produtores rurais após mudanças da reforma tributária</title>
+<link>https://rotadajurisprudencia.com.br/2026/10/sefaz-sp-afasta-dispensa-de-nota-fiscal-de-entrada-em-operacoes-com-produtores-rurais-apos-mudancas-da-reforma-tributaria</link>
+<description>A Secretaria da Fazenda e Planejamento do Estado de São Paulo confirmou, por meio da Resposta à Consulta Tributária nº 34271/2026, a manutenção da obrigatoriedade de emissão de Nota Fiscal de entrada por contribuintes paulistas que adquirirem mercadorias de produtores rurais. O entendimento do fisco estadual fixa que a obrigação acessória persiste mesmo que o produtor rural remetente já tenha emitido a Nota Fiscal Eletrônica, modelo 55, para acobertar a operação de saída. A decisão fundamenta se na aplicação estrita do Regulamento do ICMS, especificamente no que tange aos deveres instrumentais</description>
+<pubDate>Fri, 09 Oct 2026 18:10:00 +0000</pubDate>
+<guid isPermaLink="false">e6573b6b1f0516d54a032332676520e398050289eb2b729f09f2de14ceb27492</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>STJ rejeita tese sobre benefício de PIS/Cofins entre Zona Franca de Manaus e Áreas de Livre Comércio</title>
+<link>https://rotadajurisprudencia.com.br/reunioes-apet/stj-rejeita-tese-sobre-beneficio-de-pis-cofins-entre-zona-franca-de-manaus-e-areas-de-livre-comercio</link>
+<description>A Primeira Seção do Superior Tribunal de Justiça (STJ) examina agravo interno interposto por uma empresa do setor de bebidas, a HNK (Heineken), contra decisão que inadmitiu embargos de divergência. A controvérsia reside na incidência de PIS e COFINS sobre operações realizadas para empresas localizadas nas áreas de livre comércio de Roraima, como Bom Fim e Boa Vista. A contribuinte sustenta que essas operações devem ser equiparadas à exportação, conforme o artigo 7º da Lei nº 11.732/2008, e, portanto, gozar de não incidência das contribuições. A tese da defesa baseia-se no entendimento firmado </description>
+<pubDate>Fri, 09 Oct 2026 14:22:00 +0000</pubDate>
+<guid isPermaLink="false">9711ea367f78d3302770fd1c5ed1be64c4739e39230a22467592d96cf9ddc344</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>Distribuir lucro com débito tributário: as três condições fixadas pelo STF</title>
+<link>https://rotadajurisprudencia.com.br/2026/10/distribuir-lucro-com-debito-tributario-as-tres-condicoes-fixadas-pelo-stf</link>
+<description>O Supremo Tribunal Federal concluiu na ultima quarta-feira (30/09), um dos julgamentos mais aguardados em litígios tributários recentes. Na ADI 5161, o Plenário, por decisão majoritária, validou os artigos 32 da Lei 4357/1964 e 52 da Lei 8212/1991, autorizando a Receita Federal imputar multa de 50% sobre lucros e bonificações pagos por empresas devedoras (teto de 50% da própria dívida).</description>
+<pubDate>Fri, 09 Oct 2026 12:59:00 +0000</pubDate>
+<guid isPermaLink="false">48cd86be01f6d935df0fb1ab1d50f0aeff22e2503a3817209969ada1441d1e18</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>Reforma Tributária e Direito Aduaneiro: os desafios da neutralidade, da tributação das importações e dos regimes especiais</title>
+<link>https://rotadajurisprudencia.com.br/2026/10/reforma-tributaria-e-direito-aduaneiro-os-desafios-da-neutralidade-da-tributacao-das-importacoes-e-dos-regimes-especiais</link>
+<description>A Reforma Tributária sobre o consumo introduz transformações que ultrapassam os limites da tributação das operações internas e alcançam diretamente as relações de comércio exterior. Embora a instituição do Imposto sobre Bens e Serviços (IBS) e da Contribuição sobre Bens e Serviços (CBS) não tenha sido concebida especificamente como uma reforma do Direito Aduaneiro, a adoção dos princípios da neutralidade e da tributação no destino impõe uma reorganização significativa da incidência tributária sobre importações e exportações. A substituição gradual do ICMS, do ISS, do PIS e da Cofins, acompanha</description>
+<pubDate>Fri, 09 Oct 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">45d0ae602444e380cfae7ddab66ebad2e3628cdec67ecaab32992622a910a7b9</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>A reforma do Código Tributário Nacional: os avanços e as lacunas da Lei Complementar nº 236 na busca pela segurança jurídica</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/a-reforma-do-codigo-tributario-nacional-os-avancos-e-as-lacunas-da-lei-complementar-no-236-na-busca-pela-seguranca-juridica</link>
+<description>A Lei Complementar nº 236 promove uma das mais expressivas alterações estruturais do Código Tributário Nacional desde sua edição, em 1966, ao introduzir modificações relacionadas à interpretação da legislação tributária, à constituição e à extinção do crédito tributário, às penalidades e ao processo administrativo fiscal. Apresentada como uma reforma orientada pelo consenso, a nova legislação procura reduzir conflitos, ampliar os mecanismos de solução consensual e estabelecer parâmetros nacionais para procedimentos administrativos até então submetidos a regras distintas entre os entes federati</description>
+<pubDate>Fri, 09 Oct 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">734fb213c3809cf0d263f9ee3c6575b707d1e052a52eb6440886b187afce463d</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>A construção civil diante da Reforma Tributária: os desafios de enquadramento, creditamento e neutralidade no novo modelo</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/a-construcao-civil-diante-da-reforma-tributaria-os-desafios-de-enquadramento-creditamento-e-neutralidade-no-novo-modelo</link>
+<description>A Reforma Tributária do consumo impõe à construção civil uma mudança que ultrapassa a simples substituição de tributos. O setor parte de uma realidade marcada pela cumulatividade e por particularidades na incidência de ISS, ICMS, PIS e Cofins para ingressar em uma sistemática de IBS e CBS baseada na não cumulatividade e na apropriação de créditos. A própria reforma reconheceu as especificidades dessa atividade ao estabelecer regime próprio para os serviços de construção civil, com redução de 50% das alíquotas. Contudo, a existência desse tratamento específico não elimina as dificuldades de enq</description>
+<pubDate>Fri, 09 Oct 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">d7837ec572752b6a9d499dc0bbeb5a06029a3d24fe32dfa4c8b4e5dd5150fc24</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>Entre arrecadação e garantias fundamentais: os novos pontos de tensão entre o Direito Penal e o Direito Tributário</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/entre-arrecadacao-e-garantias-fundamentais-os-novos-pontos-de-tensao-entre-o-direito-penal-e-o-direito-tributario</link>
+<description>A aproximação entre o Direito Tributário e o Direito Penal deixou de representar uma questão restrita aos crimes tradicionalmente associados à sonegação para alcançar aspectos cada vez mais amplos da relação entre contribuinte e Estado. Esse movimento pode ser evidenciado a partir de três frentes que se conectam: o compartilhamento de informações fiscais e financeiras com os órgãos de persecução penal, as mudanças no tratamento criminal do devedor contumaz e a criminalização do não recolhimento do ICMS próprio declarado. Em comum, essas discussões colocam em tensão o poder estatal de tributar </description>
+<pubDate>Fri, 09 Oct 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">bb7fcc46d08e22a03dea547bbc0b3c46c8fa5b02133d0584effc35858f6bd589</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>IBS e CBS entre diferentes instâncias: os riscos de fragmentação do contencioso na Reforma Tributária</title>
+<link>https://rotadajurisprudencia.com.br/2026/09/ibs-e-cbs-entre-diferentes-instancias-os-riscos-de-fragmentacao-do-contencioso-na-reforma-tributaria</link>
+<description>A reforma tributária foi construída sob uma forte promessa de simplificação, mas a reorganização dos tributos sobre o consumo não elimina, por si só, as causas do contencioso tributário. A criação de IBS e CBS aproxima materialidade, base de cálculo e regras gerais de dois tributos que foram concebidos de maneira coordenada, mas preserva estruturas distintas de administração e julgamento. De um lado, a CBS permanece vinculada à esfera federal; de outro, o IBS está inserido em uma competência compartilhada entre Estados, Distrito Federal e municípios. Essa separação coloca no centro do debate u</description>
+<pubDate>Fri, 09 Oct 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">b1bb52fac6b8f5d1a119644475c0d2831206fa29505e5b4243808ad14afe43a3</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>STJ reconhece não incidência de ICMS sobre importação de aeronaves por arrendamento mercantil</title>
+<link>https://rotadajurisprudencia.com.br/2026/10/stj-reconhece-nao-incidencia-de-icms-sobre-importacao-de-aeronaves-por-arrendamento-mercantil</link>
+<description>A Primeira Turma do Superior Tribunal de Justiça decidiu, de forma unânime, que é favorável ao contribuinte a tese de que a inexistência de registro de contrato de arrendamento mercantil internacional perante o Banco Central do Brasil não autoriza a cobrança de ICMS sobre a importação de aeronaves. O julgamento ocorreu no âmbito do recurso especial REsp 2230309, onde o colegiado reformou entendimento anterior de tribunal de segunda instância que havia condicionado a desoneração tributária ao cumprimento de obrigações acessórias de natureza administrativa e cambial. A decisão estabelece que, um</description>
+<pubDate>Fri, 09 Oct 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">e30e5798d72070c3d75b6cc0e2611986c7c3fb340d2d579486d717af795ae25e</guid>
 <category>Rota da Jurisprudência</category>
 </item>
 <item>
 <title>STJ rejeita recurso sobre inscrição de débitos em dívida ativa para adesão à transação tributária</title>
 <link>https://rotadajurisprudencia.com.br/2026/10/stj-rejeita-recurso-sobre-inscricao-de-debitos-em-divida-ativa-para-adesao-a-transacao-tributaria</link>
 <description>A Segunda Turma do Superior Tribunal de Justiça decidiu, por unanimidade, não conhecer do recurso especial que buscava obrigar a Receita Federal do Brasil a encaminhar débitos tributários para inscrição em dívida ativa. O julgamento, realizado no âmbito do processo REsp 2.291.648 / RS, manteve o entendimento de que o Poder Judiciário não deve interferir nos critérios e cronogramas administrativos adotados pelo fisco para a remessa de créditos à Procuradoria-Geral da Fazenda Nacional. A decisão confirma que a gestão do momento da inscrição em dívida ativa, mesmo para fins de viabilizar a adesão</description>
-<pubDate>Thu, 08 Oct 2026 19:05:00 +0000</pubDate>
+<pubDate>Fri, 09 Oct 2026 02:59:59 +0000</pubDate>
 <guid isPermaLink="false">64dc7423d6b7c520b1a1e443eff5adf01a7202a6cf8e9175540e2baba44875c9</guid>
 <category>Rota da Jurisprudência</category>
 </item>
 <item>
-<title>Em nota técnica, idealizadores da reforma tributária defendem que garantias da EC 132 têm proteção de cláusulas pétreas</title>
-<link>https://rotadajurisprudencia.com.br/2026/10/em-nota-tecnica-idealizadores-da-reforma-tributaria-defendem-que-garantias-da-ec-132-tem-protecao-de-clausulas-petreas</link>
-<description>O Centro de Cidadania Fiscal (CCiF), instituição que participou da formulação da proposta que deu origem à reforma tributária, publicou nesta quinta-feira (8/10) uma nota técnica defendendo que a Emenda Constitucional 132/2023 promoveu transformações que ultrapassam a substituição dos tributos sobre o consumo e fortalecem quatro cláusulas pétreas da Constituição Federal. Segundo o documento, essas mudanças estabelecem limites constitucionais para a regulamentação do novo modelo e até mesmo para futuras alterações na Constituição. A instituição sustenta que eventuais distorções na implementação</description>
-<pubDate>Thu, 08 Oct 2026 18:34:00 +0000</pubDate>
-<guid isPermaLink="false">5ce33373bf73c1030ca2c433347f9062550da8cd4bb576e1bc6bd3991472a4cc</guid>
+<title>STJ considera desproporcional rescisão de transação tributária por atraso pontual na entrada</title>
+<link>https://rotadajurisprudencia.com.br/2026/10/stj-considera-desproporcional-rescisao-de-transacao-tributaria-por-atraso-pontual-na-entrada</link>
+<description>O Superior Tribunal de Justiça, por meio de decisão monocrática da Ministra Regina Helena Costa, proferiu decisão favorável ao contribuinte no âmbito do Recurso Especial número 2.298.668 – RS, restabelecendo a validade de uma transação excepcional que havia sido rescindida administrativamente. A controvérsia central girou em torno da legalidade do cancelamento da negociação fiscal firmado via sistema Regularize, da Procuradoria-Geral da Fazenda Nacional, em virtude do atraso no pagamento da última parcela da entrada, também denominada pedágio. O entendimento adotado pela relatora fundamentou-s</description>
+<pubDate>Fri, 09 Oct 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">d04ef8317a547d1f9ceacb7ac79cbb24cbcce14e9ac8495e86a74d87f2708e28</guid>
 <category>Rota da Jurisprudência</category>
 </item>
 <item>
-<title>TJ-SP suspende arbitramento de ITCMD baseado exclusivamente em anúncios da internet</title>
-<link>https://rotadajurisprudencia.com.br/2026/10/tj-sp-suspende-arbitramento-de-itcmd-baseado-exclusivamente-em-anuncios-da-internet</link>
-<description>Em julgamento com resultado favorável ao contribuinte, a 7ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, nos autos do Agravo de Instrumento nº 2213436-03.2026.8.26.0000, determinou a suspensão da exigibilidade de créditos tributários suplementares de Imposto sobre Transmissão Causa Mortis e Doação (ITCMD). A demanda originou-se da insurgência de uma herdeira e donatária contra a metodologia de arbitramento da base de cálculo empregada pela Fazenda Pública estadual em procedimento administrativo de revisão. O tributo havia sido inicialmente recolhido com esteio no va</description>
-<pubDate>Thu, 08 Oct 2026 17:47:00 +0000</pubDate>
-<guid isPermaLink="false">3879adb7686686228d2196813eaa007fd2d066498728a4ce8b3825e21c027cd3</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>STF afasta crédito presumido de ICMS da base de PIS e COFINS</title>
-<link>https://rotadajurisprudencia.com.br/reunioes-apet/stf-afasta-credito-presumido-de-icms-da-base-de-pis-e-cofins</link>
-<description>O Supremo Tribunal Federal (STF) decidiu, por maioria apertada de 7 a 4 votos, que a inclusão de créditos presumidos de Imposto sobre Circulação de Mercadorias e Serviços (ICMS) na base de cálculo do PIS e da COFINS é incompatível com a Constituição Federal. A controvérsia foi examinada no Recurso Extraordinário 835818, submetido à sistemática da repercussão geral sob o Tema 843. A tese defendida pelos contribuintes sustentava que os créditos presumidos de ICMS, concedidos pelos estados como incentivos fiscais, não deveriam ser considerados receita para fins de incidência das contribuições soc</description>
-<pubDate>Thu, 08 Oct 2026 13:39:00 +0000</pubDate>
-<guid isPermaLink="false">2c656c7d6d528bf805f7d6eb55b13795ed6b220e507a5dd5b1e6a713dab28cff</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>STF conclui julgamento do Tema 843 e afasta PIS/Cofins sobre créditos presumidos de ICMS</title>
-<link>https://rotadajurisprudencia.com.br/2026/10/stf-conclui-julgamento-do-tema-843-e-afasta-pis-cofins-sobre-creditos-presumidos-de-icms</link>
-<description>O Supremo Tribunal Federal (STF) concluiu nesta quarta-feira (7/10) o julgamento do Recurso Extraordinário (RE) 835.818, Tema 843 da repercussão geral, e decidiu que os créditos presumidos de ICMS concedidos pelos Estados e pelo Distrito Federal não podem ser incluídos na base de cálculo do PIS e da Cofins. Por 7 votos a 4, prevaleceu a posição favorável aos contribuintes, pela incompatibilidade da tributação com a Constituição Federal.</description>
-<pubDate>Thu, 08 Oct 2026 02:59:59 +0000</pubDate>
-<guid isPermaLink="false">addf3d414dbdd96e9d8459a6c83f0ea3fd481f8bde8104252f5d2a4cb5751b00</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>PGFN prorroga editais de transação e abre nova negociação para multas aduaneiras</title>
-<link>https://rotadajurisprudencia.com.br/2026/10/pgfn-prorroga-editais-de-transacao-e-abre-nova-negociacao-para-multas-aduaneiras</link>
-<description>A Procuradoria-Geral da Fazenda Nacional divulgou, em 2 de outubro de 2026, a ampliação das possibilidades de negociação de débitos tributários e não tributários, com a prorrogação de editais já existentes e a abertura de novas modalidades de transação. Entre as medidas anunciadas estão programas destinados a microempreendedores individuais, empregadores com débitos de FGTS e contribuintes com dívidas de até R$ 45 milhões. Em conjunto com a Receita Federal, a PGFN também abriu uma nova transação para créditos relacionados a multas substitutivas da pena de perdimento.</description>
-<pubDate>Thu, 08 Oct 2026 02:59:59 +0000</pubDate>
-<guid isPermaLink="false">8c358d8daa2f373dfe00c6936b5f2b5d7182744e42507d9b387c888a688eccff</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>PGFN permite que MEIs negociem dívidas de até cinco salários mínimos com desconto de 50%</title>
-<link>https://rotadajurisprudencia.com.br/2026/10/pgfn-permite-que-meis-negociem-dividas-de-ate-cinco-salarios-minimos-com-desconto-de-50</link>
-<description>A Procuradoria-Geral da Fazenda Nacional (PGFN) abriu uma modalidade de transação para Microempreendedores Individuais (MEIs) regularizarem débitos inscritos em dívida ativa da União. A Portaria PGFN nº 2.970, publicada em 1 de outubro de 2026, permite negociar determinadas dívidas de pequeno valor com desconto de 50% sobre o valor total consolidado e pagamento em até 60 prestações mensais e sucessivas.</description>
-<pubDate>Thu, 08 Oct 2026 02:59:59 +0000</pubDate>
-<guid isPermaLink="false">0f84f99a83d23bc39b93734bc19fc48bff5501217473acaa8eeeb249ccd5a4a0</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>Receita divulga manual “Perguntas e Respostas” sobre o Adicional da CSLL</title>
-<link>https://rotadajurisprudencia.com.br/2026/10/receita-divulga-perguntas-e-respostas-sobre-o-adicional-da-csll</link>
-<description>A Receita Federal divulgou nesta sexta-feira (2/10) a primeira edição do Perguntas e Respostas do Adicional da Contribuição Social sobre o Lucro Líquido (AdCSLL). Elaborado pela Coordenação-Geral de Tributação (Cosit), o documento sistematiza orientações sobre a aplicação da Lei nº 15.079/2024 e da Instrução Normativa RFB nº 2.228/2024, que disciplinam no Brasil o regime de tributação mínima global relacionado às Regras Globe, no âmbito do Pilar Dois do Projeto BEPS 2.0.</description>
-<pubDate>Thu, 08 Oct 2026 02:59:59 +0000</pubDate>
-<guid isPermaLink="false">1b67de959ed8f45c00badc632c3c9973bcf3ae6a3034d208cd073aca61e77a40</guid>
+<title>STJ distingue execução fiscal de cobrança civil e afasta juros após depósito integral</title>
+<link>https://rotadajurisprudencia.com.br/2026/10/stj-distingue-execucao-fiscal-de-cobranca-civil-e-afasta-juros-apos-deposito-integral</link>
+<description>O Superior Tribunal de Justiça, por meio de decisão monocrática proferida no Recurso Especial nº 2297915/RR, decidiu favoravelmente a um contribuinte ao afastar a incidência de juros de mora após a efetivação do depósito judicial integral em sede de execução fiscal. A controvérsia central do processo residia na definição dos efeitos jurídicos do depósito em dinheiro e na possibilidade de aplicação da tese fixada no Tema n. 677 do STJ ao âmbito tributário. O ente público recorrente argumentava que, conforme o referido tema repetitivo, o depósito judicial realizado para garantia do juízo não ise</description>
+<pubDate>Fri, 09 Oct 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">a2876b6171d57c7313f4647ed52aa3b61c0416492b0595587edc4bd26894dbaf</guid>
 <category>Rota da Jurisprudência</category>
 </item>
 </channel>
