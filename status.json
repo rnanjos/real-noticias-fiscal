@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-14T16:14:08.731350-03:00",
+  "generatedAt": "2026-10-15T15:57:57.610495-03:00",
   "windowHours": 24,
   "sources": [
     {
       "name": "Receita Federal",
       "ok": true,
       "found": 15,
-      "accepted": 0,
+      "accepted": 1,
       "error": ""
     },
     {
@@ -27,7 +27,7 @@
       "name": "Rota da Jurisprudência",
       "ok": true,
       "found": 34,
-      "accepted": 7,
+      "accepted": 10,
       "error": ""
     },
     {
@@ -42,15 +42,15 @@
       "ok": false,
       "found": 0,
       "accepted": 0,
-      "error": "HTTPSConnectionPool(host='www.confaz.fazenda.gov.br', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.confaz.fazenda.gov.br', port=443) at 0x7fab084d2d20>, 'Connection to www.confaz.fazenda.gov.br timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.confaz.fazenda.gov.br', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.confaz.fazenda.gov.br', port=443) at 0x7efc0b86a5a0>, 'Connection to www.confaz.fazenda.gov.br timed out. (connect timeout=25)'))"
     },
     {
       "name": "Portal da Reforma Tributária",
       "ok": true,
       "found": 28,
-      "accepted": 4,
+      "accepted": 6,
       "error": ""
     }
   ],
-  "totalItems": 11
+  "totalItems": 17
 }
