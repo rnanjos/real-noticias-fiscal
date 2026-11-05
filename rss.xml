@@ -5,109 +5,77 @@
 <link>https://rnanjos.github.io/real-noticias-fiscal/rss.xml</link>
 <description>Notícias fiscais e tributárias consolidadas das últimas 24 horas.</description>
 <language>pt-BR</language>
-<lastBuildDate>Wed, 04 Nov 2026 21:06:56 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 21:23:40 +0000</lastBuildDate>
 <item>
-<title>STJ decide que indenização por ações não subscritas deve ser tributada pelo IRPF como ganho de capital</title>
-<link>https://rotadajurisprudencia.com.br/2026/11/stj-decide-que-indenizacao-por-acoes-nao-subscritas-deve-ser-tributada-pelo-irpf-como-ganho-de-capital</link>
-<description>No julgamento do Recurso Especial nº 2297321 – RS, o Superior Tribunal de Justiça estabeleceu que os valores recebidos por um investidor a título de indenização pela não subscrição de ações devem ser submetidos à tributação sob a sistemática de ganho de capital. A decisão monocrática reconheceu a incidência do Imposto de Renda Pessoa Física (IRPF) sobre o montante, mas reformou o entendimento anterior que aplicava o regime de rendimentos comuns. O posicionamento do tribunal superior fundamenta-se na distinção jurídica entre a simples recomposição de patrimônio e a percepção de acréscimo patrim</description>
-<pubDate>Wed, 04 Nov 2026 20:19:00 +0000</pubDate>
-<guid isPermaLink="false">11f8f04da6fb7f633dc8184bbc9a30ebf38c9751146812772912f957ba0c0b70</guid>
+<title>STJ afasta exclusão de isenções de ICMS da base de cálculo do PIS e da Cofins</title>
+<link>https://rotadajurisprudencia.com.br/2026/11/stj-afasta-exclusao-de-isencoes-de-icms-da-base-de-calculo-do-pis-e-da-cofins</link>
+<description>O Superior Tribunal de Justiça negou provimento ao recurso especial interposto por uma empresa do setor de transporte e logística, mantendo o entendimento de que benefícios fiscais de ICMS, quando concedidos sob a modalidade de isenção, não podem ser excluídos da base de cálculo das contribuições ao PIS e à Cofins. A decisão, proferida de forma monocrática pelo ministro relator Gurgel de Faria no âmbito do Recurso Especial 2.293.048/RS, consolidou a tese de que tais desonerações representam grandezas negativas que, por natureza, não integram o faturamento ou a receita bruta da pessoa jurídica.</description>
+<pubDate>Thu, 05 Nov 2026 20:32:00 +0000</pubDate>
+<guid isPermaLink="false">704e491247603a7043985a9ead49ca3a26f1c510d15308b4583506c6ec886e82</guid>
 <category>Rota da Jurisprudência</category>
 </item>
 <item>
-<title>CARF mantém cobrança de contribuições previdenciárias sobre PLR por assinatura tardia de acordos</title>
-<link>https://rotadajurisprudencia.com.br/2026/11/carf-mantem-cobranca-de-contribuicoes-previdenciarias-sobre-plr-por-assinatura-tardia-de-acordos</link>
-<description>A Segunda Turma da Câmara Superior de Recursos Fiscais (CSRF) decidiu, por maioria de votos, manter a cobrança de contribuições previdenciárias sobre os pagamentos realizados a título de Participação nos Lucros ou Resultados (PLR) por uma concessionária de energia elétrica. O julgamento, formalizado no acórdão 9202-012.032 e referente ao processo 15504.722339/2016-32, negou provimento ao recurso especial interposto pelo contribuinte. O entendimento prevalecente no colegiado foi de que a assinatura dos acordos coletivos em datas muito próximas ao encerramento do período de apuração desvirtua a </description>
-<pubDate>Wed, 04 Nov 2026 19:51:00 +0000</pubDate>
-<guid isPermaLink="false">18294ef331ee2891f0b8331dde6fa09436fe65a41361941daca484605f3d8ecb</guid>
+<title>Por voto de qualidade, CARF mantém cobrança de contribuições previdenciárias sobre prêmio inovação</title>
+<link>https://rotadajurisprudencia.com.br/2026/11/por-voto-de-qualidade-carf-mantem-cobranca-de-contribuicoes-previdenciarias-sobre-premio-inovacao</link>
+<description>O resultado do julgamento foi favorável ao fisco no processo 10314.727861/2015-43, por meio do qual a 2ª Turma da Câmara Superior de Recursos Fiscais do Conselho Administrativo de Recursos Fiscais analisou a incidência de contribuições sociais previdenciárias sobre valores pagos sob a rubrica de prêmio inovação. A controvérsia central estabelecida no recurso especial interposto por uma companhia do setor de papel e celulose cingia se à natureza jurídica de tais verbas, especificamente se possuiriam caráter contraprestacional ou se seriam meras liberalidades destinadas a incentivar a criativida</description>
+<pubDate>Thu, 05 Nov 2026 19:37:00 +0000</pubDate>
+<guid isPermaLink="false">8920d6e930578c1262f42b919609f57cf368cc4fee6cde810554d5550fc84722</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>Receita Federal admite percentuais reduzidos de IRPJ e CSLL para serviços de saúde prestados em hospitais de terceiros</title>
+<link>https://rotadajurisprudencia.com.br/2026/11/receita-federal-admite-percentuais-reduzidos-de-irpj-e-csll-para-servicos-de-saude-prestados-em-hospitais-de-terceiros</link>
+<description>A Secretaria Especial da Receita Federal do Brasil, por intermédio da Coordenação-Geral de Tributação, publicou a Solução de Consulta COSIT nº 213, que apresenta um resultado material parcialmente favorável quanto à interpretação das alíquotas de presunção no regime do lucro presumido. O documento técnico aborda a determinação da base de cálculo do Imposto sobre a Renda de Pessoa Jurídica e da Contribuição Social sobre o Lucro Líquido para empresas que prestam serviços de saúde, especificamente nas áreas de radiologia, diagnóstico por imagem e centros de infusão. A controvérsia central analisa</description>
+<pubDate>Thu, 05 Nov 2026 18:30:00 +0000</pubDate>
+<guid isPermaLink="false">aa98acf77da023efeab67d4ce8c3701e7baee0066dea0654bf7a8436b170c9b4</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>Reforma tributária: medida provisória define alíquotas do Imposto Seletivo e benefícios para setores específicos</title>
+<link>https://rotadajurisprudencia.com.br/2026/11/reforma-tributaria-medida-provisoria-define-aliquotas-do-imposto-seletivo-e-beneficios-para-setores-especificos</link>
+<description>O Governo Federal publicou, na edição extra do Diário Oficial da União (DOU) de 4 de novembro de 2026, a Medida Provisória nº 1.399/2026, que estabelece as alíquotas e as normas complementares do Imposto Seletivo (IS) para o ano-calendário de 2027. A norma disciplina a tributação de veículos, aeronaves, embarcações, bebidas alcoólicas, bebidas açucaradas, produtos fumígenos e concursos de prognósticos, além de estabelecer procedimentos de apuração, pagamento e compensação do imposto. As medidas integram a implementação da reforma tributária prevista na Lei Complementar nº 214/2025.</description>
+<pubDate>Thu, 05 Nov 2026 13:09:00 +0000</pubDate>
+<guid isPermaLink="false">7f1dc775c2fc56e00603038cf679e20db5275ea6b05fe8b13f160059b0665f9c</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>STF nega seguimento a recurso que buscava estender benefício fiscal do diesel fóssil ao biodiesel</title>
+<link>https://rotadajurisprudencia.com.br/2026/11/stf-nega-seguimento-a-recurso-que-buscava-estender-beneficio-fiscal-do-diesel-fossil-ao-biodiesel</link>
+<description>Em decisão monocrática desfavorável ao contribuinte, o relator negou seguimento ao Recurso Extraordinário 1624804/RS, confirmando a tese favorável à Fazenda Nacional para manter a exigibilidade das contribuições sociais devidas por uma fabricante de biocombustíveis. O julgamento referendou o acórdão do Tribunal Regional Federal da 4ª Região, que assentou a impossibilidade jurídica de estender o benefício fiscal de alíquota zero concedido aos importadores e produtores de óleo diesel de origem fóssil, previsto pelo Decreto 10.638 de 2021, às pessoas jurídicas dedicadas à elaboração e comercializ</description>
+<pubDate>Thu, 05 Nov 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">ff259a39e86912375c14c65907e798a85dc8d78be5d268143b6c71403581099e</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>STF fixa tese no Tema 1.258 e afasta estorno de créditos de ICMS em operações interestaduais com combustíveis</title>
+<link>https://rotadajurisprudencia.com.br/2026/10/stf-fixa-tese-no-tema-1-258-e-afasta-estorno-de-creditos-de-icms-em-operacoes-interestaduais-com-combustiveis</link>
+<description>O Supremo Tribunal Federal decidiu, em julgamento de recurso extraordinário submetido ao rito da repercussão geral, de forma favorável ao contribuinte, garantindo o direito à manutenção de créditos do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) em operações interestaduais com combustíveis. A decisão ocorreu no âmbito do RE 1.362.742, processo paradigma do Tema 1.258 da gestão de precedentes da Corte, no qual uma distribuidora de combustíveis questionava a obrigatoriedade do estorno de créditos tributários exigido pelo Estado de Minas Gerais. O colegiado fixou a tese jurídica de q</description>
+<pubDate>Thu, 05 Nov 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">d79b25996e030fa797680aa0133fb7dfdb57e12151dea17b713e72bef54be7b7</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>STF mantém decisão que dispensa juntada integral de processo administrativo fiscal em ação penal por crime tributário</title>
+<link>https://rotadajurisprudencia.com.br/2026/10/stf-mantem-decisao-que-dispensa-juntada-integral-de-processo-administrativo-fiscal-em-acao-penal-por-crime-tributario</link>
+<description>O Supremo Tribunal Federal, por meio de sua Segunda Turma, decidiu de forma unânime pela manutenção de decisão que indeferiu o pedido de juntada integral de procedimento administrativo tributário em sede de ação penal. O julgamento ocorreu no âmbito da Reclamação 99.056/PB, na qual se questionava a suposta violação aos preceitos da Súmula Vinculante número 14. O resultado do julgamento foi favorável ao fisco, uma vez que o colegiado considerou desnecessária a anexação da totalidade dos autos administrativos para o prosseguimento da persecução criminal, desde que os documentos essenciais à demo</description>
+<pubDate>Thu, 05 Nov 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">4321613b2d2827bb5d366e34c7a4e459aceb69fa19cac92ae140d36edd6193e7</guid>
+<category>Rota da Jurisprudência</category>
+</item>
+<item>
+<title>STF rejeita recurso de instituição financeira contra cobrança de IPVA em contratos de arrendamento mercantil</title>
+<link>https://rotadajurisprudencia.com.br/2026/10/stf-rejeita-recurso-de-instituicao-financeira-contra-cobranca-de-ipva-em-contratos-de-arrendamento-mercantil</link>
+<description>O Supremo Tribunal Federal negou seguimento ao Recurso Extraordinário interposto no processo RE 1626095/DF, mantendo a obrigação de uma instituição financeira de responder solidariamente pelo pagamento do Imposto sobre a Propriedade de Veículos Automotores incidente sobre automóveis concedidos por meio de arrendamento mercantil. A decisão monocrática confirmou o acórdão proferido pela corte de origem, o qual havia fixado que a cobrança fiscal promovida pelo fisco local deve incidir sobre a entidade arrendante em razão de sua condição jurídica de proprietária dos veículos durante a vigência do </description>
+<pubDate>Thu, 05 Nov 2026 02:59:59 +0000</pubDate>
+<guid isPermaLink="false">845d486e9294c892f448d87a2bbc2ccb753ac899fae65ea61aa233a0e387c63a</guid>
 <category>Rota da Jurisprudência</category>
 </item>
 <item>
 <title>TRF-1 acolhe parcialmente recurso da OAB/DF e limita retenção de IR sobre lucros e dividendos de advogados</title>
 <link>https://rotadajurisprudencia.com.br/2026/11/trf-1-acolhe-parcialmente-recurso-da-oab-df-e-limita-retencao-de-ir-sobre-lucros-e-dividendos-de-advogados</link>
 <description>A 13ª Turma do Tribunal Regional Federal da 1ª Região (TRF1) decidiu, por unanimidade, limitar a retenção do Imposto de Renda da Pessoa Física (IRPF) sobre lucros e dividendos distribuídos por sociedades de advogados aos profissionais representados pela Ordem dos Advogados do Brasil, Seccional do Distrito Federal (OAB/DF). O colegiado acolheu parcialmente recurso da entidade e determinou que, nos pagamentos mensais superiores a R$ 50 mil e inferiores a R$ 100 mil, a retenção não poderá ultrapassar a alíquota correspondente à tributação mínima anual projetada. A decisão tem caráter provisório e</description>
-<pubDate>Wed, 04 Nov 2026 19:02:00 +0000</pubDate>
+<pubDate>Thu, 05 Nov 2026 02:59:59 +0000</pubDate>
 <guid isPermaLink="false">8376e8bc7eeec76ad92449935f8ecdd7848d9e4d222b147585f1b5bd7eebda8d</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>STJ distingue precedente sobre ágio e permite exclusão de deságio da base de cálculo da CSLL</title>
-<link>https://rotadajurisprudencia.com.br/reunioes-apet/stj-distingue-precedente-sobre-agio-e-permite-exclusao-de-desagio-da-base-de-calculo-da-csll</link>
-<description>O Superior Tribunal de Justiça (STJ) concedeu provimento a recurso especial interposto pela Santista Participações S/A, reconhecendo o direito de não computar a amortização de deságio na base de cálculo da Contribuição Social sobre o Lucro Líquido (CSLL). A contribuinte sustentava que o tratamento tributário específico concedido ao Imposto de Renda de Pessoa Jurídica (IRPJ) para a amortização de deságio, previsto nos artigos 334 e 376 do Regulamento do Imposto de Renda de 1994, deveria ser estendido à CSLL. Para tanto, apoiava-se na interpretação do artigo 57 da Lei 8.981/1995, argumentando qu</description>
-<pubDate>Wed, 04 Nov 2026 14:22:00 +0000</pubDate>
-<guid isPermaLink="false">ee5914ab32a198244548982f6dcc27f6135dcaf42f79367d10d8a06d987439d9</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>Entidades pedem adiamento da CBS para 2028 e apontam riscos na implementação da reforma tributária</title>
-<link>https://rotadajurisprudencia.com.br/2026/11/entidades-pedem-adiamento-da-cbs-para-2028-e-apontam-riscos-na-implementacao-da-reforma-tributaria</link>
-<description>Em carta aberta assinada em 31 de outubro de 2026, entidades representativas dos setores jurídico, tributário e empresarial, entre elas a Associação Paulista de Estudos Tributários (APET), defenderam o adiamento da implementação efetiva da Contribuição sobre Bens e Serviços (CBS) para, no mínimo, 2028. O documento aponta que a proximidade das novas etapas da reforma tributária do consumo, previstas para 1º de janeiro de 2027, ocorre em meio a indefinições normativas e dificuldades operacionais que, segundo as signatárias, comprometem a preparação das empresas para o novo sistema de tributação.</description>
-<pubDate>Wed, 04 Nov 2026 12:26:00 +0000</pubDate>
-<guid isPermaLink="false">1eb99d0926e8225eb7ba698d3c38d93cff9dee0b74215aa562a9a6e1ab540672</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>Quem avalia quem ? O déficit de representatividade na avaliação da reforma tributária</title>
-<link>https://rotadajurisprudencia.com.br/2026/10/quem-avalia-quem-o-deficit-de-representatividade-na-avaliacao-da-reforma-tributaria</link>
-<description>A reforma tributária do consumo incorporou uma inovação relevante: a obrigação de examinar os impactos do IBS e da CBS na promoção da igualdade entre homens e mulheres e da igualdade étnico-racial. A previsão reconhece que a tributação não produz efeitos neutros em uma sociedade marcada por desigualdades de gênero, raça e classe.</description>
-<pubDate>Wed, 04 Nov 2026 02:59:59 +0000</pubDate>
-<guid isPermaLink="false">382f43c31be2c05eb7a006f4b4d79c90de958f258c74e0776045cfaf7cd1459b</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>STF e o Tema 1348: A vitória do ITBI que as prefeituras vão tentar reverter via arbitramento</title>
-<link>https://rotadajurisprudencia.com.br/2026/10/stf-e-o-tema-1348-a-vitoria-do-itbi-que-as-prefeituras-vao-tentar-reverter-via-arbitramento</link>
-<description>Todos comemorando porque na última segunda-feira (19/10/2026), o Plenário do STF(em sessão virtual) encerrou o julgamento do Tema n°. 1.348 (RE 1.495.108/SP relatado pelo Ministro Edson Fachin). Resultado: 9×2 e o STF declarou que a imunidade do ITBI prevista no artigo 156, § 2º, inciso I da Constituição também se aplica àqueles que integram imóveis em empresas imobiliárias. O Extrato de julgamento foi liberado pelo STF na terça-feira (20/10)</description>
-<pubDate>Wed, 04 Nov 2026 02:59:59 +0000</pubDate>
-<guid isPermaLink="false">762807ace860332f7a61a96c64a7b34aaa291416833ebd1409689ba3394e681f</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>Lucro presumido: o percentual de presunção ainda mede renda ?</title>
-<link>https://rotadajurisprudencia.com.br/2026/10/lucro-presumido-o-percentual-de-presuncao-ainda-mede-renda</link>
-<description>A LC 224/2025 elevou os percentuais de presunção conforme o volume de receita, mas o faturamento não necessariamente revela maior margem de lucro.</description>
-<pubDate>Wed, 04 Nov 2026 02:59:59 +0000</pubDate>
-<guid isPermaLink="false">a8c031cb4019c36bdd0b61c5ea81f7ce038bbdea3dc1b53fed0b1d08b3f01302</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>O contencioso tributário na LC 227/2026 e a LC 236/2026: desafios de harmonização, garantias do contribuinte e a arbitragem tributária</title>
-<link>https://rotadajurisprudencia.com.br/2026/09/o-contencioso-tributario-na-lc-227-2026-e-a-lc-236-2026-desafios-de-harmonizacao-garantias-do-contribuinte-e-a-arbitragem-tributaria</link>
-<description>1. Breves considerações A Lei Complementar nº 227/2026, que regulamenta a gestão e a administração do Imposto sobre Bens e Serviços (IBS) no âmbito da Reforma Tributária (EC nº 132/2023) e institui o Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS), redesenhou profundamente o Processo Administrativo Tributário (PAT), instituindo um novo paradigma. Prevê a […]</description>
-<pubDate>Wed, 04 Nov 2026 02:59:59 +0000</pubDate>
-<guid isPermaLink="false">620744064bd721076f931968d5efa7f9ef5ff6b909895b48014e52f9ba0bee2b</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>Exclusão de bonificações da base do PIS/Cofins e outros temas tributários entram na pauta do STJ para novembro</title>
-<link>https://rotadajurisprudencia.com.br/2026/11/exclusao-de-bonificacoes-da-base-do-pis-cofins-e-outros-temas-tributarios-entram-na-pauta-do-stj-para-novembro</link>
-<description>A Primeira Seção do Superior Tribunal de Justiça (STJ) tem pautados para 11 de novembro três julgamentos que envolvem questões tributárias com repercussão para contribuintes e a Fazenda Pública. Os ministros deverão examinar os efeitos da apresentação de seguro garantia sobre o protesto e a inscrição de débitos no Cadastro Informativo de Créditos não Quitados do Setor Público Federal (Cadin), a inclusão de bonificações e descontos na base de cálculo do PIS/Cofins e a possibilidade de complementação de valores referentes à correção monetária no cumprimento de sentenças contra a Fazenda Pública.</description>
-<pubDate>Wed, 04 Nov 2026 02:59:59 +0000</pubDate>
-<guid isPermaLink="false">bdfeff35bc90c3d4468fb126bae664f6b78321049273da676d86ff839071829a</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>Por voto de qualidade, CARF mantém cobrança de PIS e Cofins-Importação por exportação realizada por estabelecimento não habilitado ao REPEX</title>
-<link>https://rotadajurisprudencia.com.br/2026/10/por-voto-de-qualidade-carf-mantem-cobranca-de-pis-e-cofins-importacao-por-exportacao-realizada-por-estabelecimento-nao-habilitado-ao-repex</link>
-<description>O Conselho Administrativo de Recursos Fiscais manteve a validade de autos de infração lavrados contra uma sociedade de economia mista do setor de energia, consolidando o entendimento de que a exportação de mercadorias realizada por estabelecimento não habilitado é insuficiente para extinguir o Regime Aduaneiro Especial de Importação de Petróleo Bruto e seus Derivados, conhecido como REPEX. A decisão foi proferida por meio de voto de qualidade pela Primeira Turma Ordinária da Quarta Câmara da Terceira Seção, no âmbito do processo administrativo número 10821.720005/2019-61. O colegiado concluiu </description>
-<pubDate>Wed, 04 Nov 2026 02:59:59 +0000</pubDate>
-<guid isPermaLink="false">ed67377808d1128376a7209537dae5f2ae30debb24805e468b4a33c4a207df8a</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>STF abre consulta sobre proposta para unificar ações judiciais do IBS e da CBS</title>
-<link>https://rotadajurisprudencia.com.br/2026/10/stf-abre-consulta-sobre-proposta-para-unificar-acoes-judiciais-do-ibs-e-da-cbs</link>
-<description>O Centro de Estudos Constitucionais do Supremo Tribunal Federal (CESTF) abriu, nesta quinta-feira (29 de outubro), uma nova etapa de consulta pública sobre o contencioso judicial da reforma tributária do consumo. O Edital 05/2026, em sua segunda fase, apresenta propostas preliminares elaboradas por um grupo de especialistas para definir como serão solucionadas judicialmente as controvérsias envolvendo o Imposto sobre Bens e Serviços (IBS) e a Contribuição sobre Bens e Serviços (CBS), instituídos pela Emenda Constitucional 132/2023. A principal proposta prevê a criação de uma competência jurisd</description>
-<pubDate>Wed, 04 Nov 2026 02:59:59 +0000</pubDate>
-<guid isPermaLink="false">3d3f6fb64700801b33b4352d223df2925332ccf7cf260824abd82d1c619177a0</guid>
-<category>Rota da Jurisprudência</category>
-</item>
-<item>
-<title>Receita Federal prorroga até 30 de dezembro prazo de adesão a editais de transação tributária</title>
-<link>https://rotadajurisprudencia.com.br/2026/10/receita-federal-prorroga-ate-30-de-dezembro-prazo-de-adesao-a-editais-de-transacao-tributaria</link>
-<description>A Receita Federal prorrogou para 30 de dezembro de 2026 o prazo de adesão às modalidades de transação tributária previstas nos Editais RFB nº 9 e nº 10, ambos de 13 de julho de 2026. A medida foi oficializada pela Portaria RFB nº 742, de 27 de outubro de 2026, publicada no Diário Oficial da União desta quinta-feira (29/10). As propostas permitem a negociação de débitos tributários em discussão administrativa, mediante descontos e parcelamentos que variam conforme o valor da dívida, a situação do contribuinte e as condições estabelecidas em cada edital.</description>
-<pubDate>Wed, 04 Nov 2026 02:59:59 +0000</pubDate>
-<guid isPermaLink="false">7d935742f0cdef05f964d1187cff6ff95a6a123f6e72e3924633ad1d93558418</guid>
 <category>Rota da Jurisprudência</category>
 </item>
 </channel>
